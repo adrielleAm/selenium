@@ -1,0 +1,7 @@
+D:\Projetos\Selenium\ManagerIIS\bin\Debug\ManagerIIS.exe.config
+D:\Projetos\Selenium\ManagerIIS\bin\Debug\ManagerIIS.exe
+D:\Projetos\Selenium\ManagerIIS\bin\Debug\ManagerIIS.pdb
+D:\Projetos\Selenium\ManagerIIS\bin\Debug\Microsoft.Web.Administration.dll
+D:\Projetos\Selenium\ManagerIIS\obj\Debug\ManagerIIS.csprojResolveAssemblyReference.cache
+D:\Projetos\Selenium\ManagerIIS\obj\Debug\ManagerIIS.exe
+D:\Projetos\Selenium\ManagerIIS\obj\Debug\ManagerIIS.pdb
