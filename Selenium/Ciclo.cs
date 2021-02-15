@@ -27,7 +27,7 @@ namespace AutomacaoCarga
 
                               
                 PreencherDadosCiclo(drive, (string)item["DescricaoPt"], (string)item["DescricaoEn"], (string)item["DescricaoEs"],
-                    (string)item["Pilar"], (double)item["NCiclo"], (double)item["Ano"], (string)item["GrupoMeta"],(string)item["DataInicio"], (string)item["DataFim"], (string)item["Questionario"]);
+                    (string)item["Pilar"], (double)item["NCiclo"], (double)item["Ano"], (string)item["GrupoMeta"], Convert.ToDateTime((string)item["DataInicio"]), Convert.ToDateTime((string)item["DataFim"]), (string)item["Questionario"]);
 
 
                 var btnSalvar = drive.FindElement(By.ClassName("btnSalvar"));
@@ -42,7 +42,7 @@ namespace AutomacaoCarga
 
         }
 
-        private static void PreencherDadosCiclo(IWebDriver drive, string DescricaoPt, string DescricaoEn, string DescricaoEs, string Pilar, double NCiclo, double Ano, string GrupoMeta, string DataInicio, string DataFim, string Questionario)
+        private static void PreencherDadosCiclo(IWebDriver drive, string DescricaoPt, string DescricaoEn, string DescricaoEs, string Pilar, double NCiclo, double Ano, string GrupoMeta, DateTime DataInicio, DateTime DataFim, string Questionario)
         {
             IWebElement inputDescricaoPt = drive.FindElement(By.Name("1"));
             inputDescricaoPt.SendKeys(DescricaoPt);
@@ -60,17 +60,11 @@ namespace AutomacaoCarga
 
             IWebElement inputNCiclo = drive.FindElement(By.Name("txtnumero"));
             inputNCiclo.Clear();
-            inputNCiclo.Click();
-            if (NCiclo <= 9)
-                inputNCiclo.SendKeys("0" + Convert.ToString(NCiclo));
-            else
-                inputNCiclo.SendKeys(Convert.ToString(NCiclo));
+            inputNCiclo.SendKeys("0" + Convert.ToString(NCiclo));
 
             IWebElement inputAno = drive.FindElement(By.Name("txtano"));
             inputAno.Clear();
-            inputAno.Click();
-            //inputAno.SendKeys(Convert.ToString(Ano));
-            inputAno.SendKeys("2020");
+            inputAno.SendKeys(Convert.ToString(Ano));
 
             drive.Manage().Timeouts().ImplicitlyWait(TimeSpan.FromSeconds(10));
             SelectElement dropdownGrupoMeta = new SelectElement(drive.FindElement(By.Id("ddlGrupoMeta")));
@@ -78,14 +72,12 @@ namespace AutomacaoCarga
 
             IWebElement inputDataInicio = drive.FindElement(By.Id("txtdataInicio"));
             inputDataInicio.Clear();
-            inputDataInicio.Click();
-            inputDataInicio.SendKeys(Convert.ToString(DataInicio).Replace("/", ""));
+            inputDataInicio.SendKeys(Convert.ToString(DataInicio));
             inputDataInicio.SendKeys(Keys.Tab);
 
             IWebElement inputDataFim = drive.FindElement(By.Id("txtDataFim"));
             inputDataFim.Clear();
-            inputDataFim.Click();
-            inputDataFim.SendKeys(Convert.ToString(DataFim).Replace("/", ""));
+            inputDataFim.SendKeys(Convert.ToString(DataFim));
             inputDataFim.SendKeys(Keys.Tab);
 
 
@@ -103,12 +95,12 @@ namespace AutomacaoCarga
 
             IWait<IWebDriver> wait = new OpenQA.Selenium.Support.UI.WebDriverWait(drive, tempoespera);
 
-            wait.Until(drv => drv.FindElement(By.ClassName("btn-novo-ciclo")));
+            wait.Until(drv => drv.FindElement(By.Id("novoCiclo")));
             wait.Until(drv => !Program.Exibir(drive, By.Id("bloqueio-tela")));
 
-            var btn = drive.FindElement(By.ClassName("btn-novo-ciclo"));
+            var btn = drive.FindElement(By.Id("novoCiclo"));
             //drive.Manage().Timeouts().SetPageLoadTimeout(tempoespera);
-                    btn.Click();
+            btn.Click();
         }
 
         private static void AbrirTelaCilco(IWebDriver drive)

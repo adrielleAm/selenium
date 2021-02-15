@@ -13,7 +13,7 @@ namespace AutomacaoCarga
     {
         public static String EscolherArquivo()
         {
-            string diretorioOrigem = @"D:\DEMARCO\Carga\SPO_H2_REVENDA";
+            string diretorioOrigem = @"D:\Projeto\Audtool\Selenium\Arquivos\";
 
             string[] arquivos = Directory.GetFiles(diretorioOrigem, "*.xls", SearchOption.TopDirectoryOnly);
 
@@ -151,7 +151,7 @@ namespace AutomacaoCarga
 
           //  String diretorio = EscolherArquivo();
 
-            String diretorio = @"D:\DEMARCO\txt.txt";
+            String diretorio = @"D:\Projeto\Audtool\Selenium\Arquivos\txt.txt";
 
             File.AppendAllText(diretorio, string.Format("{0}-{1}-{2}-{3}", linha, DateTime.Now, nome, email) + Environment.NewLine);
 
@@ -176,9 +176,9 @@ namespace AutomacaoCarga
                 }
 
                 // Criar 
-                var dt = CarregarArquivo(drive, caminhoArquivo);
+                CarregarArquivo(drive, caminhoArquivo);
 
-               /* int inicio = 14;
+                int inicio = 14;
                 int termino = 31;
 
                 FileStream fis = new FileStream(caminhoArquivo, FileMode.Open);
@@ -225,12 +225,12 @@ namespace AutomacaoCarga
 
                 }
 
-                fis.Close();*/
+                fis.Close();
 
                 if (dt == null)
                     throw new Exception("Planilha vazia ou inválida.");
 
-                return dt.Tables[0];
+                return dt;
             }
             catch (Exception e)
             {

@@ -1,0 +1,13 @@
+D:\Projeto\Audtool\Selenium\bin\Debug\AutomacaoCarga.exe.config
+D:\Projeto\Audtool\Selenium\bin\Debug\AutomacaoCarga.exe
+D:\Projeto\Audtool\Selenium\bin\Debug\AutomacaoCarga.pdb
+D:\Projeto\Audtool\Selenium\bin\Debug\NPOI.dll
+D:\Projeto\Audtool\Selenium\bin\Debug\WebDriver.dll
+D:\Projeto\Audtool\Selenium\bin\Debug\WebDriver.Support.dll
+D:\Projeto\Audtool\Selenium\bin\Debug\WebDriver.xml
+D:\Projeto\Audtool\Selenium\bin\Debug\WebDriver.Support.xml
+D:\Projeto\Audtool\Selenium\obj\Debug\ProjAutomacaoCarga.csproj.CoreCompileInputs.cache
+D:\Projeto\Audtool\Selenium\obj\Debug\ProjAutomacaoCarga.csproj.CopyComplete
+D:\Projeto\Audtool\Selenium\obj\Debug\AutomacaoCarga.exe
+D:\Projeto\Audtool\Selenium\obj\Debug\AutomacaoCarga.pdb
+D:\Projeto\Audtool\Selenium\obj\Debug\ProjAutomacaoCarga.csprojAssemblyReference.cache

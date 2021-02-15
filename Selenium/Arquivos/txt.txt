@@ -1,0 +1,338 @@
+1.2-31/07/2019 15:55:13-1.2 - A unidade garante o controle do OBZ no pacote gente e indiretos gente, e a dispersão na tendência de OBZ mês e FE (final de exercício)?-1 - ESTRUTURA ORGANIZACIONAL, REGRAS E RESPONSABILIDADES
+2.1-31/07/2019 15:57:10-2.1 - Todos os funcionários conhecem e compreendem seu pacote de remuneração, como ele é calculado e eles sabem qual o valor do salário mínimo e máximo que podem receber?-2 - REMUNERAÇÃO
+3.1-31/07/2019 16:14:48-3.1 - A unidade realiza uma aproximação com as universidades e instâncias estudantis da região para fortalecimento da marca empregadora?-3 - RECRUTAMENTO E SELEÇÃO
+3.2-31/07/2019 16:15:36-3.2 - A gestão do programa de estágio é realizada conforme as orientações corporativas?-3 - RECRUTAMENTO E SELEÇÃO
+3.3-31/07/2019 16:16:21-3.3 - O processo de atração e seleção é executado de forma eficiente e eficaz? -3 - RECRUTAMENTO E SELEÇÃO
+3.4-31/07/2019 16:16:59-3.4 - Todos os funcionários admitidos  recebem integração completa e eficaz sobre a companhia ?-3 - RECRUTAMENTO E SELEÇÃO
+3.5-31/07/2019 16:17:49-3.5 - Todos os funcionários admitidos e movimentados receberam integração completa e eficaz sobre a função?-3 - RECRUTAMENTO E SELEÇÃO
+4.2-31/07/2019 16:25:32-4.2 - A unidade possui um processo implantado para gestão do Passivo Trabalhista e negociação sinidical e estes são executados corretamente?-4 - LEGISLAÇÃO TRABALHISTA
+4.3-31/07/2019 16:26:01-4.3 - A unidade atinge a meta de PCD?-4 - LEGISLAÇÃO TRABALHISTA
+5.1-31/07/2019 16:27:04-5.1 - O processo de Pesquisa de Engagement está sendo executado adequadamente?                                                -5 - AMBIENTE DE TRABALHO E ENGAGEMENT
+5.3-31/07/2019 17:31:36-5.3 - A Revenda possui gestão dos resultados de Turnover e tem o plano de ação com base nas entrevista de desligamento?-5 - AMBIENTE DE TRABALHO E ENGAGEMENT
+6.1-31/07/2019 17:33:02-6.1 - Os programas de treinamentos padrões conforme IT01 estão sendo executados? A revenda realiza uma análise das suas lacunas e mapeia a melhor maneira de tratá-las?-6 - TREINAMENTO E DESENVOLVIMENTO
+7.1-31/07/2019 17:34:22-7.1 - O processo de avaliação de competências e planos de desenvolvimento individual estão sendo executados adequadamente? -7 - GESTÃO DE TALENTOS E CARREIRA
+7.2-31/07/2019 17:35:32-7.2 - O processo de Ciclo de Gente (OPR) está sendo implantado e executado adequadamente? -7 - GESTÃO DE TALENTOS E CARREIRA
+1.1-01/08/2019 08:55:58-1.1 -  A unidade apresenta estrutra organizacional e o número de QLP compatíveis com a Meta?-1 - ESTRUTURA ORGANIZACIONAL, REGRAS E RESPONSABILIDADES
+2.1-01/08/2019 09:54:16-2.1 - Todos os funcionários conhecem e compreendem seu pacote de remuneração, como ele é calculado e eles sabem qual o valor do salário mínimo e máximo que podem receber?-2 - REMUNERAÇÃO
+2.2-01/08/2019 09:54:42-2.2 - Existe uma gestão da remuneração na unidade, o PM é controlado, as regras de remuneração são seguidas? -2 - REMUNERAÇÃO
+3.1-01/08/2019 10:00:01-3.1 - A unidade realiza uma aproximação com as universidades e instâncias estudantis da região para fortalecimento da marca empregadora?-3 - RECRUTAMENTO E SELEÇÃO
+3.2-01/08/2019 10:00:28-3.2 - A gestão do programa de estágio é realizada conforme as orientações corporativas?-3 - RECRUTAMENTO E SELEÇÃO
+3.3-01/08/2019 10:00:55-3.3 - O processo de atração e seleção é executado de forma eficiente e eficaz? -3 - RECRUTAMENTO E SELEÇÃO
+3.4-01/08/2019 10:01:21-3.4 - Todos os funcionários admitidos  recebem integração completa e eficaz sobre a companhia ?-3 - RECRUTAMENTO E SELEÇÃO
+3.5-01/08/2019 10:01:50-3.5 - Todos os funcionários admitidos e movimentados receberam integração completa e eficaz sobre a função?-3 - RECRUTAMENTO E SELEÇÃO
+4.1-01/08/2019 10:02:18-4.1 - O controle de jornada está implantado e é executado corretamente?-4 - LEGISLAÇÃO TRABALHISTA
+4.2-01/08/2019 10:02:47-4.2 - A unidade possui um processo implantado para Gestão Trabalhista e negociação sinidical e estes são executados corretamente?-4 - LEGISLAÇÃO TRABALHISTA
+4.3-01/08/2019 10:03:04-4.3 - A unidade atinge a meta de PCD?-4 - LEGISLAÇÃO TRABALHISTA
+5.1-01/08/2019 10:03:34-5.1 - Os processos de Engagement e Comunicação estão sendo executados pela unidade e os grupos foco estaão cientes?-5 - AMBIENTE DE TRABALHO E ENGAGEMENT
+5.2-01/08/2019 10:03:59-5.2 - Os programas de reconhecimento estão sendo executados pela unidade e os grupos foco estão cientes dos programas aplicados a eles?-5 - AMBIENTE DE TRABALHO E ENGAGEMENT
+5.3-01/08/2019 10:04:31-5.3 - A Unidade possui gestão dos resultados de Turnover e tem o plano de ação com base no relatório disponibilizado pelo Genius (entrevista de desligamento)?-5 - AMBIENTE DE TRABALHO E ENGAGEMENT
+6.1-01/08/2019 10:05:05-6.1 - Os programas de treinamentos corporativos estão sendo executados? A unidade realiza uma análise das suas lacunas e mapeia a melhor maneira de tratá-las?-6 - TREINAMENTO E DESENVOLVIMENTO
+7.1-01/08/2019 10:05:35-7.1 - O processo de avaliação de competências e planos de desenvolvimento individual estão sendo executados adequadamente? -7 - GESTÃO DE TALENTOS E CARREIRA
+7.2-01/08/2019 10:06:04-7.2 - O processo de Ciclo de Gente (OPR) está sendo implantado e executado adequadamente? -7 - GESTÃO DE TALENTOS E CARREIRA
+1.1-01/08/2019 10:18:25-1.1 - Uma notificação é enviada em até 24 horas para todo LTI, MTI e MDI e SIF (acidente com potencial de provocar um acidente grave ou fatalidade)? Cada LTI, MDI, MTI, FAI e SIF possui toda a documentação de investigação arquivada e foi completada em 7 dias? O alerta de segurança foi emitido em 7 dias para todos os TRI e SIF?-1 - GESTÃO DE INVESTIGAÇÃO E NOTIFICAÇÃO DE ACIDENTES
+1.2-01/08/2019 10:18:56-1.2 - Todos os incidentes, incluindo FAI, incidentes, atos e condições inseguras e perigos estão cadastrados no CR360 tanto para situações dentro quanto fora da unidade? O plano com as ações preventivas e corretivas é lançado no CR360 para o correto acompanhamento destas ações e fechamento das lacunas e recomendações identificadas durante as investigações dos acidentes?  -1 - GESTÃO DE INVESTIGAÇÃO E NOTIFICAÇÃO DE ACIDENTES
+2.1-01/08/2019 10:19:28-2.1 - A unidade possui um estoque com todos os EPI necessários, e os EPI são disponibilizados sem custo aos funcionários, visitantes e fornecedores?  Há procedimentos para substituir os EPI danificados/desgastados?-2 - EQUIPAMENTO DE PROTEÇÃO INDIVIDUAL (EPI)
+2.2-01/08/2019 10:19:56-2.2 - Os empregados entendem que nas áreas onde eles trabalham ou podem estar em algum momento expostos, qual EPI é exigido, para as diferentes áreas e diferentes atividades? Os EPI adequados são utilizados nas inspeções dentro e fora da unidade?-2 - EQUIPAMENTO DE PROTEÇÃO INDIVIDUAL (EPI)
+3.1-01/08/2019 10:20:30-3.1 - O local possui métodos para conferir mensalmente as habilitações de todos os condutores de veículos e para todas as novas contratações / promoções, para todos os motoristas, carros e motocicletas, a fim de garantir que elas sejam adequadas/válidas? Os exames médicos (ASO) dos condutores estão em dia?-3 - SEGURANÇA DO CONDUTOR
+3.2-01/08/2019 10:21:14-3.2 - As rotas estão sendo revisadas para determinar se apresentam riscos, e se rotas alternativas estão sendo utilizadas. Os motoristas são treinados quando rotas críticas são identificadas. Essas rotas críticas podem ser por estradas ruins, trechos em serra, riscos de assalto, etc. Além das rotas críticas, devemos mapear (lista vermelha) e cadastrar também os locais críticos (curvas perigosas, descidas íngremes ex.: "curva da morte")  Todos os planos de viagens foram realizados com qualidade?-3 - SEGURANÇA DO CONDUTOR
+3.3-01/08/2019 10:21:40-3.3 - Os motoristas foram treinados e respeitam o não uso de dispositivos eletrônicos enquanto dirigem, o uso obrigatório de cinto de segurança e seguem a política de consumo responsável da Ambev?-3 - SEGURANÇA DO CONDUTOR
+3.4-01/08/2019 10:22:11-3.4 - Todos os veículos estão equipados com Telemetria e o monitoramento desta ferramenta visa avaliar as regras de condução segura de Velocidade,  Aceleração, Frenagem e Curva Brusca? E bom acompanhamento do sistema. -3 - SEGURANÇA DO CONDUTOR
+3.5-01/08/2019 10:22:39-3.5 - Os motoristas estão cientes e cumprem a política de tempo de descanso? Aplicável também para motoristas temporários. O plano de viagem deve confirmar o tempo de descanso dos motoristas.-3 - SEGURANÇA DO CONDUTOR
+3.6-01/08/2019 10:23:23-3.6 -   Todos os funcionários receberam treinamento de práticas seguras no trajeto? Existem programas locais para promover a segurança no trajeto? Existe a avaliação de risco no trajeto, mapeamento do trajeto e plano de ação, treinamento está completo. Motociclistas possuem jaqueta ou capacete com alta visibilidade. Todos os motoclistas deverão usar o capacete obrigatóriamente.  -3 - SEGURANÇA DO CONDUTOR
+4.1-01/08/2019 10:26:03-4.1 - É realizada uma avaliação de riscos referente a todas as atividades de manuseio manual (dentro e fora da unidade)? Existe uma revisão anual documentada incluindo lacunas identificadas e plano de ação.-4 - AVALIAÇÃO DE RISCO
+4.2-01/08/2019 10:26:42-4.2 - A unidade realizou uma avaliação de risco para identificar os riscos de escorregões, tropeções e quedas?  A sinalização aplicável foi colocada para auxiliar na prevenção de escorregões/tropeções/quedas? Foi desenvolvido um plano de ação para tratar dos problemas identificados?  Foi realizada a revisão anual da avaliação dos riscos de escorregões, tropeções e quedas com identificação das principais lacunas e plano de ação para sanar os problemas. -4 - AVALIAÇÃO DE RISCO
+4.3-01/08/2019 10:27:02-4.3 - Uma avaliação anual de riscos de substâncias perigosas foi realizada? A unidade possui um inventário de todas as substâncias químicas usadas internamente?  -4 - AVALIAÇÃO DE RISCO
+4.4-01/08/2019 10:27:30-4.4 - A unidade possui uma avaliação dos riscos de violência que inclua os incidentes que ocorrem fora das unidades? A avaliação de riscos é anualmente revisada baseando-se em informações/incidentes da localidade/região com plano de ação adequado para resolver os problemas identificados?-4 - AVALIAÇÃO DE RISCO
+5.1-01/08/2019 10:28:09-5.1 - Existe um programa de treinamento de segurança que trate de todas as lacunas (Incluindo treinamento de Comportamento Seguro Global de SIFs) e que tenha pelo menos 90% de conformidade com o plano? Os documentos estão disponiveis e foram revisados (todos os requisitos devem ser satisfeitos para atender plenamente a pergunta). Todos os treinamentos de segurança são registrados e mantidos de acordo com os requisitos legais? -5 - INTEGRAÇÃO, TREINAMENTO E ORIENTAÇÃO DE SEGURANÇA
+5.2-01/08/2019 10:28:38-5.2 - Todos os condutores recém-contratados, aqueles envolvidos em um acidente e aqueles que receberam notificações de trânsito (multas gravíssimas) participam de um programa de treinamento de direção defensiva?-5 - INTEGRAÇÃO, TREINAMENTO E ORIENTAÇÃO DE SEGURANÇA
+6.1-01/08/2019 10:29:05-6.1 - Os vendedores, promotores, auxiliares de execução, supervisores e gerentes estão seguindo os procedimentos operacionais de segurança durante a execução das rotinas dentro e entre PDVs conforme o treinamento ?-6 - SEGURANÇA NO PDV E NA COMUNIDADE
+6.2-01/08/2019 10:29:28-6.2 - Existe uma avaliação de risco de segurança para PDVs/Lojas?-6 - SEGURANÇA NO PDV E NA COMUNIDADE
+7.1-01/08/2019 10:29:55-7.1 - TODOS os trabalhos de contratadas são cobertos por um plano de segurança / declaração de método e permissão de trabalho (para tarefas específicas).   (Nenhuma contratada pode trabalhar sem: Planos de segurança / declarações de método e permissões de trabalho).-7 - REQUISITOS LEGAIS E DE CONTRATADAS
+7.2-01/08/2019 10:30:27-7.2 - Existem documentações que cubram todos os requisitos legais de segurança? As permissões e licenças estão disponíveis,  atualizadas e corretamente arquivadas e / ou exibidas no guarda documentos? -7 - REQUISITOS LEGAIS E DE CONTRATADAS
+8.1-01/08/2019 10:30:53-8.1 - A unidade desenvolveu um Plano de Emergências formal, que foi revisado pelo menos anualmente?  Todos os funcionários são treinados e foram realizados exercícios nos últimos 12 meses?-8 - RESPONSABILIDADE EM EMERGÊNCIA
+8.2-01/08/2019 10:31:31-8.2 - Equipamentos de Emergência e Rotas de Saída:  Há saídas de emergência identificadas, adequadamente marcadas, desbloqueadas e destrancadas na unidade?  Os extintores de incêndio são inspecionados mensalmente e os sistemas de alarme são inspecionados anualmente? Sprinklers estão livres para funcionamento (onde necesário)? Pontos de encontro estão identificados, existe iluminação de emergência e testes são realizados.   A Rede de Hidrantes é inspecionada? Mangueiras e esguichos estão disponíveis? Existem procedimentos para a operação dos equipamentos de emergência.-8 - RESPONSABILIDADE EM EMERGÊNCIA
+8.3-01/08/2019 10:31:52-8.3 - Os funcionários que realizam tarefas especializadas em Resposta a Emergências, primeiros socorros, uso de extintores de incêndio e brigada de incêndio são treinados?-8 - RESPONSABILIDADE EM EMERGÊNCIA
+9.1-01/08/2019 10:32:18-9.1 -  Cada líder (gerente, coordenador, supervisor, analista) é capaz de explicar suas rotinas de segurança diárias, semanais e mensais? -9 - MONITORAMENTO DE SEGURANÇA
+9.2-01/08/2019 10:32:48-9.2 - A unidade identificou suas atitudes críticas e há um processo para resolver as não-conformidades? Este processo inclui um monitoramento efetivo com documentação e um feedback claro durante as observações.-9 - MONITORAMENTO DE SEGURANÇA
+9.3-01/08/2019 10:33:22-9.3 - O monitoramento de Segurança nas Lojas, nas Rotas e no CAT estão bem definidos e bem executados? App de segurança está sendo utilizado pela unidade e os atos e condições inseguras estão sendo registrados, analisados e ações são tomadas?-9 - MONITORAMENTO DE SEGURANÇA
+10.1-01/08/2019 10:33:50-10.1 - Pesquisa de Engagement - A unidade analisou as 4 questões relacionadas a segurança da pesquisa anual AB InBev e as locais (Incluir as respostas de todos os níveis de empregados nesta análise)? Os Gaps são entendidos e endereçados via plano de ação?-10 - COMPORTAMENTO SEGURO
+10.2-01/08/2019 10:34:36-10.2 - Comportamento de Segurança chave para a liderança (1a linha, gerentes, supervisores): As expectativas são de que os líderes de nossas operações tenham comportamentos de trabalho seguros por meio de suas ações, palavras e atividades. Os líderes devem, através do monitoramento de segurança / observações ser capaz de identificar atos e condições inseguras e comunicar de acordo com suas expectativas. Há ações de prevenção de comportamentos relacionados  a SIFs. Treinamento OLT concluído.-10 - COMPORTAMENTO SEGURO
+10.3-01/08/2019 10:34:58-10.3 - Campeões de segurança - Um funcionário de cada departamento, com paixão por segurança deve ser definido para ajudar na implantação da segurança e mudança cultural.-10 - COMPORTAMENTO SEGURO
+11.1-01/08/2019 10:35:28-11.1 - A política de segurança esta fixada nas instalações da unidade (pelo menos na entrada)? A política é comunicada anualmente e é parte da do conteúdo da integração dos novos contratados? Todos os funcionários sabem onde a política é publicado e pode explicar a ligação entre a política e suas tarefas diárias?-11 - POLÍTICA / DIVULGAÇÃO DE SEGURANÇA
+11.2-01/08/2019 10:35:56-11.2 - A unidade possui um "Dia de Segurança" anual, e ele acontece em 28 de abril, segundo as recomendações mundiais?  As iniciativas do Dia de Segurança foram desdobradas? Os eventos corporativos estão sendo desdobrados conforme recomendação (Dia do Cinto de Segurança, Semana da Segurança, etc...)? -11 - POLÍTICA / DIVULGAÇÃO DE SEGURANÇA
+11.3-01/08/2019 10:36:27-11.3 - A unidade utiliza as ferramentas de comunicação  (Workplace, CI, quadros, etc..) para divulgação das informações e práticas de segurança?  Os alertas de segurança relevantes para a unidade são publicados e debatidos com os funcionários? Segurança é o primeiro tema em todas as reuniões?-11 - POLÍTICA / DIVULGAÇÃO DE SEGURANÇA
+12.1-01/08/2019 10:36:47-12.1 - Cada unidade realizou uma reunião de segurança, pelo menos semanalmente, para revisar o desempenho de segurança e o processo de gerenciamento de segurança?-12 - GESTÃO DE SEGURANÇA
+12.2-01/08/2019 10:37:19-12.2 -   Estratificação de Segurança - Pelo menos uma revisão do PDCA de  segurança realizadas nos últimos 12 meses, adicionando os pontos de comportamentos identificados nos relatos de SIF.-12 - GESTÃO DE SEGURANÇA
+1.1-01/08/2019 10:45:02-1.1 -  As Reuniões Pré Matinal e Matinal seguem a Agenda conforme descritas na (TOR)? -1 - PLANEJAMENTO E ESTRUTURA
+1.2-01/08/2019 10:45:26-1.2 - As Reuniões de Fechamento seguem a Agenda conforme descrita (TOR)?-1 - PLANEJAMENTO E ESTRUTURA
+1.3-01/08/2019 10:45:51-1.3 - Todos na Unidade foram Treinados no uso dos App's, conhecem suas funções e as versões dos App's estão atualizadas?-1 - PLANEJAMENTO E ESTRUTURA
+1.4-01/08/2019 10:46:15-1.4 - Um vez por mês ocorre o "Treinamento Básico em Vendas"?-1 - PLANEJAMENTO E ESTRUTURA
+1.5-01/08/2019 10:46:42-1.5 - Os Balanceamentos de Rotas estão sendo acompanhados e respeitados na Unidade?-1 - PLANEJAMENTO E ESTRUTURA
+2.1-01/08/2019 10:47:07-2.1 - O Vendedor Externo antes de visitar o PDV realiza o planejamento correto com as alavancas de cada canal?-2 - ROTINA BÁSICA
+2.2-01/08/2019 10:47:34-2.2 - O Vendedor Externo conhece e executa o 1º Passo da Rotina Básica - "Garantir o gabarito de execução conforme canal"?-2 - ROTINA BÁSICA
+2.3-01/08/2019 10:48:03-2.3 - O Vendedor Externo conhece e executa o 2º Passo da Rotina Básica - "Garantir a contagem do estoque e abastecimento das geladeiras sem invasão"?-2 - ROTINA BÁSICA
+2.4-01/08/2019 10:48:33-2.4 - O Vendedor Externo conhece e executa o 3º Passo da Rotina Básica - "Verificar e negociar a prática de preços do PDV: TTV/TTC"?-2 - ROTINA BÁSICA
+2.5-01/08/2019 10:49:03-2.5 - O Vendedor Externo conhece e executa o 4º Passo da Rotina Básica - "Ativar os PDVs nos Programas de Mercado e garantir as contrapartidas"?-2 - ROTINA BÁSICA
+2.6-01/08/2019 10:49:31-2.6 - O Vendedor Externo conhece e executa o 5º Passo da Rotina Básica - "Verificar as ações e tomar a iniciativa de venda com as oportunidades de  Volume/SKU"? -2 - ROTINA BÁSICA
+3.1-01/08/2019 10:49:53-3.1 - O Supervisor de Contas conhece e executa sua rotina conforme Padrão? -3 - AS ROTA
+3.2-01/08/2019 10:50:21-3.2 - A Operação tem a ferramenta de leitura de Sell Out (Visor ou Scanntech) conforme regra definida?  -3 - AS ROTA
+3.3-01/08/2019 10:50:45-3.3 - Os Promotores utilizam o App "Minha Loja" em sua rotina?-3 - AS ROTA
+4.1-01/08/2019 10:51:12-4.1 - O processo de desdobramento de objetivos de VOLUME é executado de acordo com o Padrão?-4 - DESDOBRAMENTO DE OBJETIVOS
+4.2-01/08/2019 10:51:39-4.2 - O processo de desdobramento de COBERTURA e IPs são executados conforme Padrão?-4 - DESDOBRAMENTO DE OBJETIVOS
+5.1-01/08/2019 10:52:01-5.1 - O processo de Comunicação das reuniões de planejamento Semanal/Mensal acontece de acondo com o calendário Nacional?-5 - BLOCO VDI
+5.2-01/08/2019 10:52:24-5.2 - O processo de tratativa dos contatos efetivos é realizado e a Unidade atinge o indicador?-5 - BLOCO VDI
+5.3-01/08/2019 10:52:44-5.3 - O indicador de Positivação VDI é atingido?-5 - BLOCO VDI
+6.1-01/08/2019 10:53:10-6.1 - Existe um alinhamento mensal entre VENDAS e LOGÍSTICA considerando capacidade de entrega, previsão, nível de estoque e o volume de vendas?-6 - SERVIÇO AO CLIENTE
+6.2-01/08/2019 10:53:37-6.2 - A Unidade possui acompanhamento e tratativa de todos as solicitações realizadas pelos clientes ambev conforme Painel de Solicitações ?-6 - SERVIÇO AO CLIENTE
+6.3-01/08/2019 10:54:09-6.3 - A liderança cumpre o número de rotas mínimas definido no Padrão Corporativo?-6 - SERVIÇO AO CLIENTE
+6.4-01/08/2019 10:54:35-6.4 - A Unidade possui conhecimento e tratativa de todos as avaliações realizadas pelos clientes ambev conforme Painel NPS e atingime a meta de PDVs Promotores?-6 - SERVIÇO AO CLIENTE
+7.1-01/08/2019 10:55:02-7.1 - O percentual de PDV's Aderidos embalagens RGB estão definidas e está dentro do planejado?  -7 - GESTÃO PREÇOS
+7.2-01/08/2019 10:55:26-7.2 - Os PDVs Vitrine estão com os indicadores de qualidade de acordo com o planejado? -7 - GESTÃO PREÇOS
+8.1-01/08/2019 10:55:48-8.1 - O % PDV Ideal na Base AS é monitorado e revisado?-8 - GESTÃO DE RESULTADOS
+8.2-01/08/2019 10:56:11-8.2 - O Painel de NAB é monitorado e revisado?-8 - GESTÃO DE RESULTADOS
+8.3-01/08/2019 10:56:35-8.3 - O Painel ON TRADE HE é monitorado e revisado?-8 - GESTÃO DE RESULTADOS
+8.4-01/08/2019 10:56:55-8.4 - O Giro Tri SOPIV é monitorado e revisado?-8 - GESTÃO DE RESULTADOS
+8.5-01/08/2019 10:57:17-8.5 - O Painel Contrapartidas PDM é monitorado e revisado? -8 - GESTÃO DE RESULTADOS
+8.6-01/08/2019 10:57:43-8.6 - O KPI Compradores Eldorado é monitorado e revisado?-8 - GESTÃO DE RESULTADOS
+8.7-01/08/2019 10:58:04-8.7 - A Unidade atinge o indicador de % de Volume Non Traditional?-8 - GESTÃO DE RESULTADOS
+8.8-01/08/2019 10:58:24-8.8 - A Unidade atinge o indicador de  Compradores de Cerveja?-8 - GESTÃO DE RESULTADOS
+8.9-01/08/2019 10:58:44-8.9 - A Unidade atinge o indicador de  Compradores de Litro?-8 - GESTÃO DE RESULTADOS
+8.10-01/08/2019 10:59:04-8.10 - A Unidade atinge o indicador de Compradores de Inteira?-8 - GESTÃO DE RESULTADOS
+1.1-01/08/2019 11:12:51-1.1 - A unidade garante e estrutura mínima de fornecedores?-1 - ESTRUTURA OPERACIONAL
+1.2-01/08/2019 11:13:15-1.2 - A estrutura física é adequada para a realização das atividades de segurança patrimonial?-1 - ESTRUTURA OPERACIONAL
+1.3-01/08/2019 11:13:44-1.3 - A unidade possui todos os alvarás e licenças necessários para operação?-1 - ESTRUTURA OPERACIONAL
+2.1-01/08/2019 11:14:07-2.1 - A unidade garante os padrões de Faturamento, Guarda de Documentos e Fluxo Fiscal?-2 - ROTINAS ADMINISTRATIVAS CENTRALIZADAS
+2.2-01/08/2019 11:14:28-2.2 - A unidade garante o treinamento e retenção de conhecimento do time de Vendas sobre os processos centralizados?-2 - ROTINAS ADMINISTRATIVAS CENTRALIZADAS
+3.1-01/08/2019 11:14:47-3.1 - O CDD garante a gestão Capital Empregado ?-3 - ADMINISTRAÇÃO DE RECEBÍVEIS
+3.2-01/08/2019 11:15:14-3.2 - O Time Financeiro do CDD conhece o funcionamento da operação Centralizada de Crédito e possui aderência a Matriz de Prazos?-3 - ADMINISTRAÇÃO DE RECEBÍVEIS
+3.3-01/08/2019 11:15:40-3.3 - A unidade garante o acompanhamento diário dos títulos pendentes e tem acompanhamento dos indicadores de inadimplência e recuperação da inadimplência? -3 - ADMINISTRAÇÃO DE RECEBÍVEIS
+3.4-01/08/2019 11:16:06-3.4 - A unidade garante o acompanhamento semanal dos títulos pendentes e tem acompanhamento do indicador PDD Mês?-3 - ADMINISTRAÇÃO DE RECEBÍVEIS
+3.5-01/08/2019 11:16:30-3.5 - A unidade possui gestão de vales financeiros sem ocorrências de baixa de vales acima de 30 dias no período auditado?-3 - ADMINISTRAÇÃO DE RECEBÍVEIS
+4.1-01/08/2019 11:16:51-4.1 - A unidade garante o processo de assinatura digital e tem 100% das documentações digitalizadas?-4 - GESTÃO DE ATIVOS
+4.2-01/08/2019 11:17:15-4.2 - A Unidade acompanha a meta de Giro Zero de Vasilhames garantindo a tratativa dos clientes nas reuniões de rotina?-4 - GESTÃO DE ATIVOS
+4.3-01/08/2019 11:17:41-4.3 - Existe um fluxo formalizado de recolha de vasilhames com plano estruturado e acompanhamento das solicitações do Painel Meu Cliente?-4 - GESTÃO DE ATIVOS
+4.4-01/08/2019 11:18:01-4.4 - Existe o processo de rastreabilidade de equipamentos de refrigeração (SOPI) no mercado? -4 - GESTÃO DE ATIVOS
+4.5-01/08/2019 11:18:27-4.5 - A Unidade acompanha a meta de Giro Zero de Equipamentos, realizando a tratativa dos clientes que não estão performando?-4 - GESTÃO DE ATIVOS
+5.1-01/08/2019 11:18:47-5.1 - A unidade utiliza e possui aderência às Ferramentas de Controles Internos?-5 - UTILIZAÇÃO FERRAMENTAS DE RISCO
+5.2-01/08/2019 11:19:09-5.2 - Existe Rotina de Registro e tratamento de ocorrências de risco patrimonial?-5 - UTILIZAÇÃO FERRAMENTAS DE RISCO
+5.3-01/08/2019 11:19:29-5.3 - A unidade realiza o mapeamento Risco Patrimonial e trata os gaps?-5 - UTILIZAÇÃO FERRAMENTAS DE RISCO
+6.1-01/08/2019 11:19:49-6.1 - A unidade cumpre o Processo de MPD?-6 - ATIVIDADES PREVENÇÃO DE PERDAS
+6.2-01/08/2019 11:20:16-6.2 - A unidade executa o inventário conforme padrão, comunica as diferenças e tem plano para tratamento das mesmas?-6 - ATIVIDADES PREVENÇÃO DE PERDAS
+6.3-01/08/2019 11:20:39-6.3 - A unidade realiza as Reuniões Financeiro e Controle?-6 - ATIVIDADES PREVENÇÃO DE PERDAS
+6.4-01/08/2019 11:21:04-6.4 - A unidade realiza o Mapeamento para prevenção de prejuízo com sinistros?-6 - ATIVIDADES PREVENÇÃO DE PERDAS
+7.1-01/08/2019 11:21:19-7.1 - A unidade cumpre a política de Frota?-7 - GESTÃO DE FROTA
+7.2-01/08/2019 11:21:43-7.2 - A unidade tem gestão dos custos da Frota?-7 - GESTÃO DE FROTA
+7.3-01/08/2019 11:22:04-7.3 - a Unidade garante a tratativa e desconto das multas e avarias?-7 - GESTÃO DE FROTA
+8.1-01/08/2019 11:22:29-8.1 - A unidade acompanha todas as etapas do processo de  pagamentos e atinge o  resultado de Notas Fora no período auditado?-8 - GESTÃO DE COMPRAS E PAGAMENTOS
+9.1-01/08/2019 11:22:47-9.1 - A unidade constroe o orçamento e garante correto dimensionamento do Plan concedido?-9 - GESTÃO DO OBZ FIXO
+9.2-01/08/2019 11:23:08-9.2 - A unidade analisa o real e está aderente à meta de tendência?-9 - GESTÃO DO OBZ FIXO
+9.3-01/08/2019 11:23:31-9.3 - A unidade faz analise de performance para atingimento do resultado?-9 - GESTÃO DO OBZ FIXO
+9.4-01/08/2019 11:23:50-9.4 - A unidade faz análise dos KPIs Bench / Metrics?-9 - GESTÃO DO OBZ FIXO
+10.1-01/08/2019 11:24:13-10.1 - A unidade tem gestão do Pacote  de OBZ Prejuízo?-10 - GESTÃO DO OBZ PREJUIZO
+10.2-01/08/2019 11:24:33-10.2 - A unidade tem a gestão da VBZ Shelf Life?-10 - GESTÃO DO OBZ PREJUIZO
+11.1-01/08/2019 11:24:51-11.1 - A unidade constroe o orçamento e garante correto dimensionamento do Plan concedido?-11 - GESTÃO DO OBZ GENTE
+11.2-01/08/2019 11:25:11-11.2 - A unidade faz analise de performance para atingimento do resultado?-11 - GESTÃO DO OBZ GENTE
+11.3-01/08/2019 11:25:43-11.3 - A uniadde faz o Report - Reuniões + emails + SDG com GC/Coletivo + SDG com GRF + SuperMatinal (modelo padrão)?-11 - GESTÃO DO OBZ GENTE
+1.1-01/08/2019 11:27:46-1.1 - 5S - Os funcionários têm conhecimento dos princípios do 5S e há a aplicação na Unidade?-1 - CONHECIMENTO BÁSICO
+1.2-01/08/2019 11:28:08-1.2 - Ouvidoria - O Canal de Ouvidoria foi implantado e todos os funcionários conhecem e podem explicá-lo?-1 - CONHECIMENTO BÁSICO
+2.1-01/08/2019 11:28:30-2.1 - Os funcionários possuem conhecimento dos Padrões da Área e dos Processos mais Importantes (Críticos)?-2 - CONHECIMENTO DO NEGÓCIO
+2.2-01/08/2019 11:28:50-2.2 - A execução dos processos e utilização das alavancas corretas de cada canal trazem evolução nos indicadores das áreas?-2 - CONHECIMENTO DO NEGÓCIO
+2.3-01/08/2019 11:29:15-2.3 - O Check de Padrão é realizado de forma correta? As rotas coaching são realizadas de acordo com as orientações? (DTO)-2 - CONHECIMENTO DO NEGÓCIO
+2.4-01/08/2019 11:29:33-2.4 - ANS -  A área definiu um Acordo de Nível de Serviço (ANS) para o seu Indicador Crítico?-2 - CONHECIMENTO DO NEGÓCIO
+3.1-01/08/2019 11:29:52-3.1 - Gestão à Vista - Existem quadros de gestão à vista nas áreas e eles são atualizados na frequência correta?-3 - REVISÃO DA ROTINA
+3.2-01/08/2019 11:30:15-3.2 - A Unidade realiza as Reuniões de Rotina obrigatórias na frequência correta e com utilização do Plano de Ação?-3 - REVISÃO DA ROTINA
+3.3-01/08/2019 11:30:36-3.3 - Os funcionários utilizam a Agenda da Rotina de forma correta?-3 - REVISÃO DA ROTINA
+3.4-01/08/2019 11:30:57-3.4 - As áreas identificam os indicadores que não atingem a meta e realizam ações para correção dos problemas?-3 - REVISÃO DA ROTINA
+4.1-01/08/2019 11:31:21-4.1 - Desdobramento - As metas individuais foram desdobradas de maneira consistente?-4 - DESDOBRAMENTO DE METAS
+4.2-01/08/2019 11:31:41-4.2 - Planejamento e Monitoramento  - Existe um plano inicial com conta de chegada  para cada meta individual, e as mesmas são monitoradas?  -4 - DESDOBRAMENTO DE METAS
+5.1-01/08/2019 11:32:01-5.1 - A área aplicou o PDCA para tratar os indicadores críticos?-5 - PDCA
+6.1-01/08/2019 11:32:32-6.1 - As Reuniões Mensais são realizadas e os funcionários possuem conhecimento dos principais indicadores da Unidade?-6 - REVISÃO DE DESEMPENHO
+1.1-02/08/2019 08:52:24-1.1 - Uma notificação é enviada em até 24 horas para todo LTI, MTI e MDI e SIF (acidente com potencial de provocar um acidente grave ou fatalidade)? Cada LTI, MDI, MTI, FAI e SIF possui toda a documentação de investigação arquivada e foi completada em 7 dias? O alerta de segurança foi emitido em 7 dias para todos os TRI e SIF?-1 - GESTÃO DE INVESTIGAÇÃO E NOTIFICAÇÃO DE ACIDENTES
+1.2-02/08/2019 08:53:03-1.2 - Todos os incidentes, incluindo FAI, incidentes, atos e condições inseguras e perigos estão cadastrados no CR360 tanto para situações dentro quanto fora da unidade? O plano com as ações preventivas e corretivas é lançado no CR360 para o correto acompanhamento destas ações e fechamento das lacunas e recomendações identificadas durante as investigações dos acidentes?  -1 - GESTÃO DE INVESTIGAÇÃO E NOTIFICAÇÃO DE ACIDENTES
+2.1-02/08/2019 08:53:37-2.1 - A unidade possui um estoque com todos os EPI necessários, e os EPI são disponibilizados sem custo aos funcionários, visitantes e fornecedores?  Há procedimentos para substituir os EPI danificados/desgastados?-2 - EQUIPAMENTO DE PROTEÇÃO INDIVIDUAL (EPI)
+2.2-02/08/2019 08:54:11-2.2 - Os empregados entendem que nas áreas onde eles trabalham ou podem estar em algum momento expostos, qual EPI é exigido, para as diferentes áreas e diferentes atividades? Os EPI adequados são utilizados nas inspeções dentro e fora da unidade?-2 - EQUIPAMENTO DE PROTEÇÃO INDIVIDUAL (EPI)
+3.1-02/08/2019 08:54:55-3.1 - O local possui métodos para conferir mensalmente as habilitações de todos os condutores de veículos e para todas as novas contratações / promoções, para todos os motoristas, carros e motocicletas, a fim de garantir que elas sejam adequadas/válidas? Os exames médicos (ASO) dos condutores estão em dia?-3 - SEGURANÇA DO CONDUTOR
+3.2-02/08/2019 08:55:52-3.2 - As rotas estão sendo revisadas para determinar se apresentam riscos, e se rotas alternativas estão sendo utilizadas. Os motoristas são treinados quando rotas críticas são identificadas. Essas rotas críticas podem ser por estradas ruins, trechos em serra, riscos de assalto, etc. Além das rotas críticas, devemos mapear (lista vermelha) e cadastrar também os locais críticos (curvas perigosas, descidas íngremes ex.: "curva da morte")  Todos os planos de viagens foram realizados com qualidade?-3 - SEGURANÇA DO CONDUTOR
+3.3-02/08/2019 08:56:21-3.3 - Os motoristas foram treinados e respeitam o não uso de dispositivos eletrônicos enquanto dirigem, o uso obrigatório de cinto de segurança e seguem a política de consumo responsável da Ambev?-3 - SEGURANÇA DO CONDUTOR
+3.4-02/08/2019 08:56:56-3.4 - Todos os veículos estão equipados com Telemetria e o monitoramento desta ferramenta visa avaliar as regras de condução segura de Velocidade,  Aceleração, Frenagem e Curva Brusca? E bom acompanhamento do sistema. -3 - SEGURANÇA DO CONDUTOR
+3.5-02/08/2019 08:57:32-3.5 - Os motoristas estão cientes e cumprem a política de tempo de descanso? Aplicável também para motoristas temporários. O plano de viagem deve confirmar o tempo de descanso dos motoristas.-3 - SEGURANÇA DO CONDUTOR
+3.6-02/08/2019 08:58:37-3.6 -   Todos os funcionários receberam treinamento de práticas seguras no trajeto? Existem programas locais para promover a segurança no trajeto? Existe a avaliação de risco no trajeto, mapeamento do trajeto e plano de ação, treinamento está completo. Motociclistas possuem jaqueta ou capacete com alta visibilidade. Todos os motoclistas deverão usar o capacete obrigatóriamente.  -3 - SEGURANÇA DO CONDUTOR
+4.1-02/08/2019 09:01:32-4.1 - É realizada uma avaliação de riscos referente a todas as atividades de manuseio manual (dentro e fora da unidade)? Existe uma revisão anual documentada incluindo lacunas identificadas e plano de ação.-4 - AVALIAÇÃO DE RISCO
+4.2-02/08/2019 09:02:22-4.2 - A unidade realizou uma avaliação de risco para identificar os riscos de escorregões, tropeções e quedas?  A sinalização aplicável foi colocada para auxiliar na prevenção de escorregões/tropeções/quedas? Foi desenvolvido um plano de ação para tratar dos problemas identificados?  Foi realizada a revisão anual da avaliação dos riscos de escorregões, tropeções e quedas com identificação das principais lacunas e plano de ação para sanar os problemas. -4 - AVALIAÇÃO DE RISCO
+4.3-02/08/2019 09:02:45-4.3 - Uma avaliação anual de riscos de substâncias perigosas foi realizada? A unidade possui um inventário de todas as substâncias químicas usadas internamente?  -4 - AVALIAÇÃO DE RISCO
+4.4-02/08/2019 09:03:18-4.4 - A unidade possui uma avaliação dos riscos de violência que inclua os incidentes que ocorrem fora das unidades? A avaliação de riscos é anualmente revisada baseando-se em informações/incidentes da localidade/região com plano de ação adequado para resolver os problemas identificados?-4 - AVALIAÇÃO DE RISCO
+5.1-02/08/2019 09:04:08-5.1 - Existe um programa de treinamento de segurança que trate de todas as lacunas (Incluindo treinamento de Comportamento Seguro Global de SIFs OLT e OLT) e que tenha pelo menos 90% de conformidade com o plano? Os documentos estão disponiveis e foram revisados (todos os requisitos devem ser satisfeitos para atender plenamente a pergunta). Todos os treinamentos de segurança são registrados e mantidos de acordo com os requisitos legais? -5 - INTEGRAÇÃO, TREINAMENTO E ORIENTAÇÃO DE SEGURANÇA
+5.2-02/08/2019 09:04:54-5.2 - Todos os condutores recém-contratados, aqueles envolvidos em um acidente e aqueles que receberam notificações de trânsito (multas gravíssimas) participam de um programa de treinamento de direção defensiva?-5 - INTEGRAÇÃO, TREINAMENTO E ORIENTAÇÃO DE SEGURANÇA
+6.1-02/08/2019 09:05:27-6.1 - Os vendedores, promotores, auxiliares de execução, supervisores e gerentes estão seguindo os procedimentos operacionais de segurança durante a execução das rotinas dentro e entre PDVs conforme o treinamento ?-6 - SEGURANÇA NO PDV E NA COMUNIDADE
+6.2-02/08/2019 09:06:05-6.2 - Existe uma avaliação de risco de segurança para PDVs/Lojas?-6 - SEGURANÇA NO PDV E NA COMUNIDADE
+7.1-02/08/2019 09:06:39-7.1 - TODOS os trabalhos de contratadas são cobertos por um plano de segurança / declaração de método e permissão de trabalho (para tarefas específicas).   (Nenhuma contratada pode trabalhar sem: Planos de segurança / declarações de método e permissões de trabalho).-7 - REQUISITOS LEGAIS E DE CONTRATADAS
+7.2-02/08/2019 09:07:27-7.2 - Existem documentações que cubram todos os requisitos legais de segurança? As permissões e licenças estão disponíveis,  atualizadas e corretamente arquivadas e / ou exibidas no guarda documentos? -7 - REQUISITOS LEGAIS E DE CONTRATADAS
+8.1-02/08/2019 09:08:03-8.1 - A unidade desenvolveu um Plano de Emergências formal, que foi revisado pelo menos anualmente?  Todos os funcionários são treinados e foram realizados exercícios nos últimos 12 meses?-8 - RESPONSABILIDADE EM EMERGÊNCIA
+8.2-02/08/2019 09:08:54-8.2 - Equipamentos de Emergência e Rotas de Saída:  Há saídas de emergência identificadas, adequadamente marcadas, desbloqueadas e destrancadas na unidade?  Os extintores de incêndio são inspecionados mensalmente e os sistemas de alarme são inspecionados anualmente? Sprinklers estão livres para funcionamento (onde necesário)? Pontos de encontro estão identificados, existe iluminação de emergência e testes são realizados.   A Rede de Hidrantes é inspecionada? Mangueiras e esguichos estão disponíveis? Existem procedimentos para a operação dos equipamentos de emergência.-8 - RESPONSABILIDADE EM EMERGÊNCIA
+8.3-02/08/2019 09:09:19-8.3 - Os funcionários que realizam tarefas especializadas em Resposta a Emergências, primeiros socorros, uso de extintores de incêndio e brigada de incêndio são treinados?-8 - RESPONSABILIDADE EM EMERGÊNCIA
+9.1-02/08/2019 09:10:03-9.1 -  Cada líder (gerente, coordenador, supervisor, analista) é capaz de explicar suas rotinas de segurança diárias, semanais e mensais? -9 - MONITORAMENTO DE SEGURANÇA
+9.2-02/08/2019 09:10:49-9.2 - A unidade identificou suas atitudes críticas e há um processo para resolver as não-conformidades? Este processo inclui um monitoramento efetivo com documentação e um feedback claro durante as observações.-9 - MONITORAMENTO DE SEGURANÇA
+9.3-02/08/2019 09:11:35-9.3 - O monitoramento de Segurança nas Lojas, nas Rotas e no CAT estão bem definidos e bem executados?  os atos e condições inseguras estão sendo registrados, analisados e ações são tomadas?-9 - MONITORAMENTO DE SEGURANÇA
+10.1-02/08/2019 09:29:47-10.1 - Pesquisa de Engagement - A unidade analisou as 4 questões relacionadas a segurança da pesquisa anual AB InBev e as locais (Incluir as respostas de todos os níveis de empregados nesta análise)? Os Gaps são entendidos e endereçados via plano de ação?-10 - COMPORTAMENTO SEGURO
+10.2-02/08/2019 09:30:49-10.2 - Comportamento de Segurança chave para a liderança (1a linha, gerentes, supervisores): As expectativas são de que os líderes de nossas operações tenham comportamentos de trabalho seguros por meio de suas ações, palavras e atividades. Os líderes devem, através do monitoramento de segurança / observações ser capaz de identificar atos e condições inseguras e comunicar de acordo com suas expectativas. Há ações de prevenção de comportamentos relacionados  a SIFs. Treinamento OLT concluído.-10 - COMPORTAMENTO SEGURO
+10.3-02/08/2019 09:31:17-10.3 - Campeões de segurança - Um funcionário de cada departamento, com paixão por segurança deve ser definido para ajudar na implantação da segurança e mudança cultural.-10 - COMPORTAMENTO SEGURO
+11.1-02/08/2019 09:31:55-11.1 - A política de segurança esta fixada nas instalações da unidade (pelo menos na entrada)? A política é comunicada anualmente e é parte da do conteúdo da integração dos novos contratados? Todos os funcionários sabem onde a política é publicado e pode explicar a ligação entre a política e suas tarefas diárias?-11 - POLÍTICA / DIVULGAÇÃO DE SEGURANÇA
+11.2-02/08/2019 09:32:27-11.2 - A unidade possui um "Dia de Segurança" anual, e ele acontece em 28 de abril, segundo as recomendações mundiais?  As iniciativas do Dia de Segurança foram desdobradas? Os eventos corporativos estão sendo desdobrados conforme recomendação (Dia do Cinto de Segurança, Semana da Segurança, etc...)? -11 - POLÍTICA / DIVULGAÇÃO DE SEGURANÇA
+11.3-02/08/2019 09:33:02-11.3 - A unidade utiliza as ferramentas de comunicação  ( CI, quadros, etc..) para divulgação das informações e práticas de segurança?  Os alertas de segurança relevantes para a unidade são publicados e debatidos com os funcionários? Segurança é o primeiro tema em todas as reuniões?-11 - POLÍTICA / DIVULGAÇÃO DE SEGURANÇA
+12.1-02/08/2019 09:33:25-12.1 - Cada unidade realizou uma reunião de segurança, pelo menos semanalmente, para revisar o desempenho de segurança e o processo de gerenciamento de segurança?-12 - GESTÃO DE SEGURANÇA
+12.2-02/08/2019 09:34:17-12.2 -   Estratificação de Segurança - Pelo menos uma revisão do PDCA de  segurança realizadas nos últimos 12 meses, adicionando os pontos de comportamentos identificados nos relatos de SIF.-12 - GESTÃO DE SEGURANÇA
+1.1-02/08/2019 09:40:18-1.1 -  As Reuniões Pré Matinal e Matinal seguem a Agenda conforme descritas na (TOR)? -1 - PLANEJAMENTO E ESTRUTURA
+1.2-02/08/2019 09:40:43-1.2 - As Reuniões de Fechamento seguem a Agenda conforme descrita (TOR)?-1 - PLANEJAMENTO E ESTRUTURA
+1.3-02/08/2019 09:41:08-1.3 - Todos na Unidade foram Treinados no uso dos App's, conhecem suas funções e as versões dos App's estão atualizadas?-1 - PLANEJAMENTO E ESTRUTURA
+1.4-02/08/2019 09:41:32-1.4 - Um vez por mês ocorre o "Treinamento Básico em Vendas"?-1 - PLANEJAMENTO E ESTRUTURA
+1.5-02/08/2019 09:41:59-1.5 - Os Balanceamentos de Rotas estão sendo acompanhados e respeitados na Unidade?-1 - PLANEJAMENTO E ESTRUTURA
+2.1-02/08/2019 09:42:24-2.1 - O Vendedor Externo antes de visitar o PDV realiza o planejamento correto com as alavancas de cada canal?-2 - ROTINA BÁSICA
+2.2-02/08/2019 09:42:51-2.2 - O Vendedor Externo conhece e executa o 1º Passo da Rotina Básica - "Garantir o gabarito de execução conforme canal"?-2 - ROTINA BÁSICA
+2.3-02/08/2019 09:43:20-2.3 - O Vendedor Externo conhece e executa o 2º Passo da Rotina Básica - "Garantir a contagem do estoque e abastecimento das geladeiras sem invasão"?-2 - ROTINA BÁSICA
+2.4-02/08/2019 09:43:50-2.4 - O Vendedor Externo conhece e executa o 3º Passo da Rotina Básica - "Verificar e negociar a prática de preços do PDV: TTV/TTC"?-2 - ROTINA BÁSICA
+2.5-02/08/2019 09:44:20-2.5 - O Vendedor Externo conhece e executa o 4º Passo da Rotina Básica - "Ativar os PDVs nos Programas de Mercado e garantir as contrapartidas"?-2 - ROTINA BÁSICA
+2.6-02/08/2019 09:44:48-2.6 - O Vendedor Externo conhece e executa o 5º Passo da Rotina Básica - "Verificar as ações e tomar a iniciativa de venda com as oportunidades de  Volume/SKU"? -2 - ROTINA BÁSICA
+3.1-02/08/2019 09:45:11-3.1 - O Supervisor de Contas conhece e executa sua rotina conforme Padrão? -3 - AS ROTA
+3.2-02/08/2019 09:45:39-3.2 - A Operação tem a ferramenta de leitura de Sell Out (Visor ou Scanntech) conforme regra definida?  -3 - AS ROTA
+3.3-02/08/2019 09:46:04-3.3 - Os Promotores utilizam o App "Minha Loja" em sua rotina?-3 - AS ROTA
+4.1-02/08/2019 09:46:29-4.1 - O processo de desdobramento de objetivos de VOLUME é executado de acordo com o Padrão?-4 - DESDOBRAMENTO DE OBJETIVOS
+4.2-02/08/2019 09:46:57-4.2 - O processo de desdobramento de COBERTURA e IPs são executados conforme Padrão?-4 - DESDOBRAMENTO DE OBJETIVOS
+5.1-02/08/2019 09:47:20-5.1 -  A Unidade possui a estrutura adequada para o VDI?-5 - BLOCO VDI
+5.2-02/08/2019 09:47:49-5.2 - O Vendedor Interno conhece a Rotina Básica?-5 - BLOCO VDI
+5.3-02/08/2019 09:48:09-5.3 - O indicador de Positivação VDI é atingido?-5 - BLOCO VDI
+6.1-02/08/2019 09:48:35-6.1 - Existe um alinhamento mensal entre VENDAS e LOGÍSTICA considerando capacidade de entrega, previsão, nível de estoque e o volume de vendas?-6 - SERVIÇO AO CLIENTE
+6.2-02/08/2019 09:49:03-6.2 - A Unidade possui acompanhamento e tratativa de todos as solicitações realizadas pelos clientes ambev conforme Painel de Solicitações ?-6 - SERVIÇO AO CLIENTE
+6.3-02/08/2019 09:49:34-6.3 - A liderança cumpre o número de rotas mínimas definido no Padrão Corporativo?-6 - SERVIÇO AO CLIENTE
+6.4-02/08/2019 09:50:01-6.4 - A Unidade possui conhecimento e tratativa de todos as avaliações realizadas pelos clientes ambev conforme Painel NPS e atingime a meta de PDVs Promotores?-6 - SERVIÇO AO CLIENTE
+7.1-02/08/2019 09:50:28-7.1 - O percentual de PDV's Aderidos embalagens RGB estão definidas e está dentro do planejado?  -7 - GESTÃO PREÇOS
+7.2-02/08/2019 09:50:53-7.2 - Os PDVs Vitrine estão com os indicadores de qualidade de acordo com o planejado? -7 - GESTÃO PREÇOS
+8.1-02/08/2019 09:51:16-8.1 - O % PDV Ideal na Base AS é monitorado e revisado?-8 - GESTÃO DE RESULTADOS
+8.2-02/08/2019 09:51:39-8.2 - O Painel de NAB é monitorado e revisado?-8 - GESTÃO DE RESULTADOS
+8.3-02/08/2019 09:52:04-8.3 - O Painel ON TRADE HE é monitorado e revisado?-8 - GESTÃO DE RESULTADOS
+8.4-02/08/2019 09:52:25-8.4 - O Giro Tri SOPIV é monitorado e revisado?-8 - GESTÃO DE RESULTADOS
+8.5-02/08/2019 09:52:47-8.5 - O Painel Contrapartidas PDM é monitorado e revisado? -8 - GESTÃO DE RESULTADOS
+8.6-02/08/2019 09:53:15-8.6 - O KPI Compradores Eldorado é monitorado e revisado?-8 - GESTÃO DE RESULTADOS
+8.7-02/08/2019 09:53:37-8.7 - A Unidade atinge o indicador de % de Volume Non Traditional?-8 - GESTÃO DE RESULTADOS
+8.8-02/08/2019 09:53:57-8.8 - A Unidade atinge o indicador de  Compradores de Cerveja?-8 - GESTÃO DE RESULTADOS
+8.9-02/08/2019 09:54:18-8.9 - A Unidade atinge o indicador de  Compradores de Litro?-8 - GESTÃO DE RESULTADOS
+8.10-02/08/2019 09:54:38-8.10 - A Unidade atinge o indicador de Compradores de Inteira?-8 - GESTÃO DE RESULTADOS
+1.1-02/08/2019 13:27:24-1.1 - Estrutura e Procedimentos de Vigilância e Portaria: A unidade garante a estrutura e procedimentos de vigilância e portaria, segurança eletrônica e controle de acesso conforme o seu grau de risco?-1.0 - ESTRUTURA OPERACIONAL
+1.2-02/08/2019 13:27:46-1.2 - Gestão do MPD: Todos os veículos de entrega e puxada estão devidamente cadastrados no promax e com registro no sistema MPD?-1.0 - ESTRUTURA OPERACIONAL
+1.3-02/08/2019 13:28:16-1.3 - Estrutura e Procedimentos de Caixa: A infraestrutura é adequada para a realização das atividades de controle de acesso de pessoas no caixa e todos os procedimentos de inspeção de segurança para acesso ao caixa estão sendo executados?-1.0 - ESTRUTURA OPERACIONAL
+1.4-02/08/2019 13:28:36-1.4 - Estrutura de TI: A unidade possui segurança da informação, regras de acesso e contingencia?-1.0 - ESTRUTURA OPERACIONAL
+1.5-02/08/2019 13:29:01-1.5 - Gestão e Vigência de Licenças e Alvarás: A unidade possui todos os alvarás e licenças necessários para operação?-1.0 - ESTRUTURA OPERACIONAL
+2.1-02/08/2019 13:29:23-2.1 - Base de Cadastro : Existe Acompanhamento do cadastro e tratativas para manter a base saudável?-2.0 - EXECUÇÃO DE CADASTRO
+2.2-02/08/2019 13:29:41-2.2 - Indicadores de Cadastros: A unidade garante a gestão dos indicadores do cadastro?-2.0 - EXECUÇÃO DE CADASTRO
+2.3-02/08/2019 13:30:04-2.3 - Saneamento da Base de Clientes: A unidade mensura e realiza o saneamento periódico do cadastro de clientes ?-2.0 - EXECUÇÃO DE CADASTRO
+3.1-02/08/2019 13:30:29-3.1 - Digitalização de documentos de cadastro: A unidade garante que TODOS os clientes com forma de pagamento diferente de dinheiro possuem documentos de cadastro digitalizados?-3.0 - GESTÃO DE DOCUMENTOS
+3.2-02/08/2019 13:30:58-3.2 - Digitalização de documentos de comodato: A unidade garante que 100% dos documentos de comodato do ano corrente e 80% dos Contratos de Comodatos dos anos anteriores estão digitalizados e  efetua o tratamento dos ativos sem documentação?  Base: Todos os clientes do parque de comodatos-3.0 - GESTÃO DE DOCUMENTOS
+3.3-02/08/2019 13:31:22-3.3 - Estrutura do Faturamento: A unidade cumpre o processo e possui estrutura para o faturamento atendendo as regras das emissões em contingência?-3.0 - GESTÃO DE DOCUMENTOS
+4.1-02/08/2019 13:31:41-4.1 - Capital Empregado: A unidade garante a gestão Capital Empregado?-4.0 - ADMINISTRAÇÃO DE RECEBÍVEIS
+4.2-02/08/2019 13:32:11-4.2 - Avaliação e Concessão de Crédito: Existe na unidade uma rotina para avaliar as condições de pagamento dos clientes, com reporte para o time de vendas (ajuste de score) e concessão de crédito conforme padrão definido pela unidade?-4.0 - ADMINISTRAÇÃO DE RECEBÍVEIS
+4.3-02/08/2019 13:32:36-4.3 - Gestão da Inadimplência: A unidade garante o acompanhamento periódico dos títulos pendentes e tem acompanhamento dos indicadores de inadimplência e recuperação da inadimplência?-4.0 - ADMINISTRAÇÃO DE RECEBÍVEIS
+4.4-02/08/2019 13:33:00-4.4 - Gestão da PDD: A unidade garante o acompanhamento semanal dos títulos pendentes e tem acompanhamento do indicador PDD Mês?-4.0 - ADMINISTRAÇÃO DE RECEBÍVEIS
+4.5-02/08/2019 13:33:25-4.5 - Matriz de Negociação e Matriz de Cobrança: A unidade segue uma Matriz de negociações conforme o padrão e garante as devidas consequências para os PDV´s devedores conforme a Matriz de cobrança?-4.0 - ADMINISTRAÇÃO DE RECEBÍVEIS
+4.6-02/08/2019 13:33:50-4.6 - Gestão de Vales: A unidade possui gestão de vales financeiros (especie 11 e 32) sem ocorrências de baixa de vales acima de 30 dias no periodo auditado?-4.0 - ADMINISTRAÇÃO DE RECEBÍVEIS
+5.1-02/08/2019 13:34:17-5.1 - Novos Comodatos: Existe fluxo formalizado de emissão de comodato que contemple a  análise da classe de risco e da performance de comodato antes da emissão prevenindo comodatos fora do padrão?-5.0 - GESTÃO DE ATIVOS
+5.2-02/08/2019 13:34:40-5.2 - Giro Zero Vasilhames: A Unidade acompanha a meta de Giro Zero de Vasilhames, garantindo as tratativas dos clientes nas reuniões de rotina?-5.0 - GESTÃO DE ATIVOS
+5.3-02/08/2019 13:35:03-5.3 - Plano de Recolha de Vasilhame: Existe um fluxo formalizado de recolha de vasilhames com plano estruturado e indicador para medição da produtividade da recolha?-5.0 - GESTÃO DE ATIVOS
+5.4-02/08/2019 13:35:26-5.4 - Giro Zero Equipamentos: A Unidade acompanha a meta de Giro Zero de Equipamentos, realizando a tratativa dos clientes que não estão performando?-5.0 - GESTÃO DE ATIVOS
+6.1-02/08/2019 13:35:44-6.1 - Gestão da Frota Leve: A unidade possui todo os documentos obrigatórios dos veículos e condutores?-6.0 - GESTÃO DA FROTA LEVE
+6.2-02/08/2019 13:36:05-6.2 - Comitê de Multas e Avarias: A unidade garante a realização do comitê mensal de multas e avarias?-6.0 - GESTÃO DA FROTA LEVE
+7.1-02/08/2019 13:36:39-7.1 - Processo de Lançamento de NFs: A unidades acompanha todas as etapas do processo de  pagamentos, blindando os principais fornecedores?-7.0 - GESTÃO DE COMPRAS  E PAGAMENTOS
+7.2-02/08/2019 13:37:09-7.2 - Notas Fora: O financeiro checa se todas as notas emitidas para a unidade estão lançadas no Promax?-7.0 - GESTÃO DE COMPRAS  E PAGAMENTOS
+8.1-02/08/2019 13:37:37-8.1 - Segregação de responsabilidades e Cronograma: Existe um padrão para garantir a execução do processo de inventário respeitando o cronograma oficial e a correta segregação das responsabilidades?-8.0 - GESTÃO DE ESTOQUES
+8.2-02/08/2019 13:38:02-8.2 - Report dos Resultados de Prejuizo:  A unidade garante o Report dos resultados de prejuizos?-8.0 - GESTÃO DE ESTOQUES
+8.3-02/08/2019 13:38:29-8.3 - Reunião semanal de Controle e Financeiro:  Existe um processo para comunicar semanalmente as diferenças (ganhos / perdas) de estoque identificadas  para o grupo de prevenção de perdas (Financeiro) assim que as variações são descobertas?-8.0 - GESTÃO DE ESTOQUES
+8.4-02/08/2019 13:38:50-8.4 - Book de Inventário: Aderência ao Book conforme Premissas PERGUNTA MANDATÓRIA-8.0 - GESTÃO DE ESTOQUES
+9.1-02/08/2019 13:39:16-9.1 - Avaliação da Área de Risco: A unidade tem uma rotina para avaliação e prevenção dos riscos externos no processo de distribuição (puxada e rota)?-9.0 - GESTÃO DE RISCO E SINISTROS
+10.1-02/08/2019 13:39:41-10.1 - Desdobramento das metas orçamentárias: A unidade tem um processo formal de desdobramento de meta dentro do prazo? PERGUNTA MANDATÓRIA-10.0 - GESTÃO DE ORÇAMENTO
+10.2-02/08/2019 13:40:00-10.2 - Resultado do Orçamento: O financeiro faz o report mensal ao Revendedor dos custos e faturamento total na visão caixa e competência? -10.0 - GESTÃO DE ORÇAMENTO
+10.3-02/08/2019 13:40:24-10.3 - Análise de Performance:  A unidade faz analise de performance para atingimento do resultado?-10.0 - GESTÃO DE ORÇAMENTO
+10.4-02/08/2019 13:40:54-10.4 - Reunião de OBZ:  A unidade faz o Report - Reuniões + emails + SDG com GC/Coletivo + SDG com GRF + SuperMatinal (modelo padrão)?-10.0 - GESTÃO DE ORÇAMENTO
+1.1-02/08/2019 15:35:07-1.1 - 5S - Os funcionários têm conhecimento dos princípios do 5S e há a aplicação na Unidade?-1 - CONHECIMENTO BÁSICO
+1.2-02/08/2019 15:35:40-1.2 - Ouvidoria - O Canal de Ouvidoria foi implantado e todos os funcionários conhecem e podem explicá-lo?-1 - CONHECIMENTO BÁSICO
+2.1-02/08/2019 15:36:08-2.1 - Os funcionários possuem conhecimento dos Padrões da Área e dos Processos mais Importantes (Críticos)?-2 - CONHECIMENTO DO NEGÓCIO
+2.2-02/08/2019 15:36:34-2.2 - A execução dos processos e utilização das alavancas corretas de cada canal trazem evolução nos indicadores das áreas?-2 - CONHECIMENTO DO NEGÓCIO
+2.3-02/08/2019 15:37:20-2.3 - O Check de Padrão é realizado de forma correta? As rotas coaching são realizadas de acordo com as orientações? (DTO)-2 - CONHECIMENTO DO NEGÓCIO
+2.4-02/08/2019 15:37:44-2.4 - ANS -  A área definiu um Acordo de Nível de Serviço (ANS) para o seu Indicador Crítico?-2 - CONHECIMENTO DO NEGÓCIO
+3.1-02/08/2019 15:38:07-3.1 - Gestão à Vista - Existem quadros de gestão à vista nas áreas e eles são atualizados na frequência correta?-3 - REVISÃO DA ROTINA
+3.2-02/08/2019 15:38:45-3.2 - A Unidade realiza as Reuniões de Rotina obrigatórias na frequência correta e com utilização do Plano de Ação?-3 - REVISÃO DA ROTINA
+3.3-02/08/2019 15:39:25-3.3 - Os funcionários utilizam a Agenda da Rotina de forma correta?-3 - REVISÃO DA ROTINA
+3.4-02/08/2019 15:39:51-3.4 - As áreas identificam os indicadores que não atingem a meta e realizam ações para correção dos problemas?-3 - REVISÃO DA ROTINA
+4.1-02/08/2019 15:40:26-4.1 - Desdobramento - As metas individuais foram desdobradas de maneira consistente?-4 - DESDOBRAMENTO DE METAS
+4.2-02/08/2019 15:40:50-4.2 - Planejamento e Monitoramento  - Existe um plano inicial com conta de chegada  para cada meta individual, e as mesmas são monitoradas?  -4 - DESDOBRAMENTO DE METAS
+5.1-02/08/2019 15:41:20-5.1 - A área aplicou o PDCA para tratar os indicadores críticos?-5 - PDCA
+6.1-02/08/2019 15:42:26-6.1 - As Reuniões Mensais são realizadas e os funcionários possuem conhecimento dos principais indicadores da Unidade?-6 - REVISÃO DE DESEMPENHO
+1.1-12/08/2019 17:05:10-1.1 - Estrutura de Atendimento Comercial   A unidade apresenta estrutura organizacional e o número de QLP compatíveis com a Meta? A base de Redes atendidas por cada KAM, Gerente de Negócio, Supervisor de Contas e Supervisor de Negócios está de acordo com o SEAV AS aprovado para a Regional? O time comercial tem as ferramentas necessárias para performar na função?-1 - ESTRUTURA, AGENDA E ROTINA
+1.2-12/08/2019 17:05:52-1.2 - Planejamento, Visita e Reunião com a Redes   O KAM / GN / SC / SN visita semanalmente as redes com critério definido, realiza as reuniões conforme a pauta mínima e utiliza todas as ferramentas de gestão indicadas para a função?-1 - ESTRUTURA, AGENDA E ROTINA
+1.3-12/08/2019 17:06:50-1.3 - Rotas, Escolha das lojas e Utilização das informações  O time de negociação segue a frequência mínima de rota definida no calendário mensal, existe um critério de escolha das lojas visitadas e as informações das rotas são utilizadas como pauta das reuniões seguintes?-1 - ESTRUTURA, AGENDA E ROTINA
+2.1-12/08/2019 17:07:31-2.1 - Planejamento e Acompanhamento de Demanda  O time comercial compartilha o calendário promocional com o time de customer service? A malha é planejada mensalmente com base histórico de volume dos SKUs e com base no calendário promocional desdobrado para o mês? A regional possui um ANS de volume entre GNS e GC?-2 - NÍVEL DE SERVIÇO
+2.2-12/08/2019 17:08:15-2.2 - OTIF  A regional tem gestão do indicador OTIF e o time de negociação tem conhecimento dos principais impactos por rede, loja, skus e motivos?-2 - NÍVEL DE SERVIÇO
+2.3-12/08/2019 17:09:07-2.3 - Gestão do Nível de Serviço  O time comercial conhece as pesquisas de satisfação realizadas nas redes atendidas na regional, e atua de modo a tratar os problemas identificados?-2 - NÍVEL DE SERVIÇO
+2.4-12/08/2019 17:09:50-2.4 - Disponibilidade Numérica Cerveja  • A Unidade conhece o indicador de disponibilidade e possui gestão da disponibilidade dos SKUs  de cerveja por rede e  loja?-2 - NÍVEL DE SERVIÇO
+2.5-12/08/2019 17:10:31-2.5 - Disponibilidade Numérica NAB  • A Unidade conhece o indicador de disponibilidade e possui gestão da disponibilidade dos SKUs  de NAB por rede e  loja?-2 - NÍVEL DE SERVIÇO
+3.1-12/08/2019 17:11:45-3.1 - Planejamento Calendário Promocional  A Unidade cumpre o processo de planejamento promocional e utiliza os aprendizados das promoções executadas (Cerveja e NAB) para planejar as próximas?-3 - CALENDÁRIO PROMOCIONAL
+3.2-12/08/2019 17:12:41-3.2 - Calendário - Execução e Apuração O Time do Comercial acompanha o andamento das promoções ao longo do mês e o calendário está aderente ao planejamento de Cerveja?-3 - CALENDÁRIO PROMOCIONAL
+3.3-12/08/2019 17:13:31-3.3 - Processo de Fechamento - Compliance  A Unidade cumpre o processo referente ao compliance dos acordos comerciais de Cerveja e NAB?-3 - CALENDÁRIO PROMOCIONAL
+3.4-12/08/2019 17:14:35-3.4 - Processo de Pagamento   A Unidade garante a geração de verba e pagamento dos acordos de Cerveja e NAB no prazo?-3 - CALENDÁRIO PROMOCIONAL
+4.1-12/08/2019 17:15:19-4.1 - JBP   A Unidade tem conhecimento do plano de negócio adequado para cada tipo de rede (Nacionais e Top 30) e cumpre o processo de Gestão, Apuração e Fechamento?-4 - PLANO DE NEGÓCIO E PROGRAMAS DE MERCADO
+4.2-12/08/2019 17:16:08-4.2 - Plano de Negócio e Rede Ideal   A Unidade tem conhecimento do programa de mercado/plano de negócio adequado para cada tipo de rede (Redes Top 100 e NSCAN) e cumpre o processo de Gestão, Apuração e Fechamento?-4 - PLANO DE NEGÓCIO E PROGRAMAS DE MERCADO
+5.1-12/08/2019 17:17:11-5.1 - Gestão - Market Share  A Unidade tem a gestão do market share, usa as diferentes fontes (Pulso, Scantrack, Retail, Scanntech e Dunnhumby - para lojas do GPA) e tem a gestão da Base Foco (lojas críticas de market share) para as análises e planos de ação?-5 - GESTÃO DE INDICADORES ESTRATÉGICOS
+5.2-12/08/2019 17:17:36-5.2 - Shelf Life - Regional  A Unidade tem a gestão de Shelf Life, analise, pareto de impactos, plano de açao e iniciativas para reduzir o prejuizo com vencimento de produto?-5 - GESTÃO DE INDICADORES ESTRATÉGICOS
+5.3-12/08/2019 17:17:57-5.3 - Rentabilidade - TTV  Cerveja   A Unidade bate o Farol TTV de Cerveja?-5 - GESTÃO DE INDICADORES ESTRATÉGICOS
+5.4-12/08/2019 17:18:18-5.4 - Rentabilidade - TTV NAB  A Unidade bate o TTV aprovado de NAB? -5 - GESTÃO DE INDICADORES ESTRATÉGICOS
+5.5-12/08/2019 17:18:48-5.5 - Rentabilidade - Maco  por Rede  • A Unidade acompanha o P&L e Maco por rede? A Unidade tem um plano para recuperação em casos de Maco baixa? -5 - GESTÃO DE INDICADORES ESTRATÉGICOS
+5.6-12/08/2019 17:19:12-5.6 - Performance de RGB na Base Foco  A unidade possui gestão da base foco de RGB e bate o resultado de Peso RGB nessa base?-5 - GESTÃO DE INDICADORES ESTRATÉGICOS
+1.1-12/08/2019 17:34:29-1.1 - O time de mercado aloca os repositores e promotores loja a loja conforme negociado como QLP Meta e o time realiza as visitas corretamente-1 - ATENDIMENTO AO MERCADO
+1.2-12/08/2019 17:34:56-1.2 - Os promotores e repositores utilizam o app "Minha Loja" em sua rotina-1 - ATENDIMENTO AO MERCADO
+1.3-12/08/2019 17:35:24-1.3 - A Reunião de Repositores acontece conforme o planejado e há retenção de conhecimento do time-1 - ATENDIMENTO AO MERCADO
+1.4-12/08/2019 17:36:01-1.4 - O time de Líderes de Execução cumpre o direcionamento de Agenda e  Rotas-1 - ATENDIMENTO AO MERCADO
+1.5-12/08/2019 17:37:09-1.5 - O Time Gerencial de Trade realiza o mínimo de Rotas definido por função, escolhe as lojas seguindo um critério de priorização e existe tratativa das ações nas reuniões semanais-1 - ATENDIMENTO AO MERCADO
+1.6-12/08/2019 17:37:38-1.6 - Auditoria das rotas e controle da dispersão das Avaliações do Time de Trade-1 - ATENDIMENTO AO MERCADO
+1.7-12/08/2019 17:38:21-1.7 - A Unidade tem a gestão da Base Foco (lojas críticas de  market share e usa as diferentes fontes da Nielsen - Lojas alvo, Scanntech e Dunnhumby - para lojas do GPA) para as análises e plano de ação-1 - ATENDIMENTO AO MERCADO
+2.1-12/08/2019 17:38:58-2.1 - O time tem gestão das linhas e smartphones de todo o time de promotores, repositores e LEs-2 - GESTÃO DE MATERIAIS E ATIVOS
+2.2-12/08/2019 17:39:39-2.2 - O time tem gestão dos materiais leves?-2 - GESTÃO DE MATERIAIS E ATIVOS
+2.3-12/08/2019 17:40:18-2.3 - O time tem gestão dos hardwares-2 - GESTÃO DE MATERIAIS E ATIVOS
+2.4-12/08/2019 17:40:52-2.4 - O time tem gestão de SOPI e VISA-2 - GESTÃO DE MATERIAIS E ATIVOS
+2.5-12/08/2019 17:41:31-2.5 - O time tem gestão das máquinas de RGB-2 - GESTÃO DE MATERIAIS E ATIVOS
+2.6-12/08/2019 17:41:59-2.6 - A Rastreabilidade é realizada conforme o processo-2 - GESTÃO DE MATERIAIS E ATIVOS
+3.1-12/08/2019 17:52:20-3.1 - Atingimento do Resultado Total de Execução Única-3 - EXECUÇÃO
+3.2-12/08/2019 17:53:00-3.2 - Atingimento do Resultado de NAB na Execução Única-3 - EXECUÇÃO
+3.3-12/08/2019 17:53:33-3.3 - Sustentabilidade dos resultados de Execução Única: Verificação em rota-3 - EXECUÇÃO
+3.4-12/08/2019 17:54:17-3.4 - O time de mercado conhece, tem gestão do indicador e atinge a meta de Disponibilidade Numérica (Cerveja + NAB)?-3 - EXECUÇÃO
+3.5-12/08/2019 17:55:04-3.5 - O time de mercado conhece, tem gestão do indicador e atinge a meta de Game Plan?-3 - EXECUÇÃO
+4.1-12/08/2019 17:58:40-4.1 - Há gerenciamento e atingimento das alavancas de Execução do JBP-4 - PROGRAMAS DE MERCADO
+4.2-12/08/2019 17:59:17-4.2 - Há gerenciamento e atingimento das alavancas de Execução do Plano de Negócios (Top 100 Regionais)-4 - PROGRAMAS DE MERCADO
+4.3-12/08/2019 17:59:56-4.3 - Há gerenciamento e atingimento das alavancas de Execução do Rede Ideal-4 - PROGRAMAS DE MERCADO
+4.4-12/08/2019 18:00:44-4.4 - Há gerenciamento e atingimento das metas de CPA-4 - PROGRAMAS DE MERCADO
+1.1-12/08/2019 18:02:49-1.1 - Todos os chamados de cadastros de novas lojas são finalizados em até 10 dias e existe um fluxo formalizado para inclusão de novos cadastros?-1 - EXECUÇÃO DE CADASTRO
+1.2-12/08/2019 18:03:08-1.2 - Existem clientes AS sem registro no sistema de cadastro corporativo?-1 - EXECUÇÃO DE CADASTRO
+1.3-12/08/2019 18:03:32-1.3 - A unidade realiza a digitalização dos documentos de cadastro das Rede Regionais ?-1 - EXECUÇÃO DE CADASTRO
+1.4-12/08/2019 18:03:58-1.4 - Existe o saneamento periódico do cadastro das lojas regionais e nacionais?-1 - EXECUÇÃO DE CADASTRO
+2.1-12/08/2019 18:04:29-2.1 - A unidade realiza análise consistente dos limites de crédito mensalmente e ajusta conforme necessidade com aprovação das alçadas competentes?-2 - ANÁLISE DE CRÉDITO
+2.2-12/08/2019 18:04:51-2.2 - O time financeiro conhece e executa a agenda de visita ao mercado?-2 - ANÁLISE DE CRÉDITO
+2.3-12/08/2019 18:05:16-2.3 - Existe gestão do CR a vencer e dos seus indicadores de verificação?-2 - ANÁLISE DE CRÉDITO
+3.1-12/08/2019 18:05:39-3.1 - A unidade acompanha diariamente o CR Vencido?-3 - GESTÃO DA COBRANÇA
+3.2-12/08/2019 18:06:07-3.2 - A unidade garante a tratativa dos títulos vencidos conforme matriz de cobrança?-3 - GESTÃO DA COBRANÇA
+3.3-12/08/2019 18:06:30-3.3 - A unidade garante a gestão da inadimplência das Redes Regionais?-3 - GESTÃO DA COBRANÇA
+3.4-12/08/2019 18:06:50-3.4 - A unidade realiza a gestão da PDD Mês?-3 - GESTÃO DA COBRANÇA
+3.5-12/08/2019 18:07:24-3.5 - A unidade garante o processo de tratamento do farol de comprovação de entrega das NFs?-3 - GESTÃO DA COBRANÇA
+3.6-12/08/2019 18:07:57-3.6 - A unidade garante o processo de tratamento do farol da devolução AS?-3 - GESTÃO DA COBRANÇA
+4.1-12/08/2019 18:10:49-4.1 - A unidade está aderida ao compliance de acordos comerciais?-4 - ACORDOS COMERCIAIS
+4.2-12/08/2019 18:11:16-4.2 - Todos os Acordos Comerciais das redes Regionais e Nacionais seguem o cronograma? -4 - ACORDOS COMERCIAIS
+4.3-12/08/2019 18:12:04-4.3 - A unidade tem as cartas de quitação de acordos comerciais?-4 - ACORDOS COMERCIAIS
+5.1-12/08/2019 18:12:26-5.1 - A unidade constrói o orçamento e garante correto dimensionamento do Plan concedido?-5 - GESTÃO DE ORÇAMENTO
+5.2-12/08/2019 18:12:51-5.2 - A unidade faz a análise do real e está aderente à meta de dispersão de tendência?-5 - GESTÃO DE ORÇAMENTO
+5.3-12/08/2019 18:13:17-5.3 - A unidade faz análise de performance para atingimento do resultado do OBZ Fixo?-5 - GESTÃO DE ORÇAMENTO
+5.4-12/08/2019 18:13:46-5.4 - A unidade faz análise de performance para atingimento do resultado do OBZ Gente?-5 - GESTÃO DE ORÇAMENTO
+5.5-12/08/2019 18:14:14-5.5 - A unidade tem gestão do Pacote  de OBZ Prejuízo?-5 - GESTÃO DE ORÇAMENTO
+5.6-12/08/2019 18:15:01-5.6 - A uniadde faz o Report - Reuniões + emails + SDG com GC/Coletivo + SDG com GRF + SuperMatinal (modelo padrão)?-5 - GESTÃO DE ORÇAMENTO
+6.1-12/08/2019 18:15:29-6.1 - A unidade garante que 100% dos documentos de comodato ( 2018 e 2019 ) e efetua o tratamento dos ativos sem documentação?  -6 - GESTÃO DE ATIVOS
+6.2-12/08/2019 18:16:01-6.2 - A Unidade acompanha a meta de Giro de Vasilhames garantindo a tratativa dos clientes que não estão performando nas reuniões de rotina?-6 - GESTÃO DE ATIVOS
+6.3-12/08/2019 18:16:32-6.3 - Existe um fluxo formalizado de recolha de vasilhames com plano estruturado e indicador para medição da produtividade da recolha?-6 - GESTÃO DE ATIVOS
+6.4-12/08/2019 18:16:55-6.4 - Existe o processo de Rastreabilidade de equipamentos de refrigeração no mercado?-6 - GESTÃO DE ATIVOS
+6.5-12/08/2019 18:17:24-6.5 - A unidade realiza  in loco o mapeamento trimestral dos vasilhames (GFA / GFE)  comodatados?-6 - GESTÃO DE ATIVOS
+7.1-12/08/2019 18:17:50-7.1 - Existe um fluxo formalizado entre logística e financeiro para comunicação dos sinistros?-7 - GESTÃO DE SINISTRO
+7.2-12/08/2019 18:18:35-7.2 - A unidade acompanha a contabilização do Prejuízo e Ressarcimento de Sinistro?-7 - GESTÃO DE SINISTRO
+8.1-12/08/2019 18:19:04-8.1 - A unidade acompanha o fechamento de CR Nacionais?-8 - FECHAMENTO CONTABIL
