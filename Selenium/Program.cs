@@ -9,17 +9,17 @@ namespace AutomacaoCarga
 {
     public class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             string contrato = null;
             int opcao;
 
             //https://sites.google.com/a/chromium.org/chromedriver/capabilities
-            
+
             //ChromeOptions options = new ChromeOptions();
             //options.AddArguments("--start-fullscreen");
 
-            string dirSelenium = @"D:\Projeto\Audtool\Selenium\Softwares\chromedriver_win32_75.0";
+            string dirSelenium = @"C:\Projeto\Selenium\selenium\Selenium\Softwares\chromedriver_win32_88";
 
             IWebDriver drive = new ChromeDriver(dirSelenium);
 
@@ -39,8 +39,8 @@ namespace AutomacaoCarga
             TimeSpan tempoespera = TimeSpan.FromSeconds(30);
             drive.Manage().Timeouts().SetPageLoadTimeout(tempoespera);
 
-
-            opcao = EscolherRotina();
+            opcao = 2;
+            //opcao = EscolherRotina();
 
             switch (opcao)
             {
@@ -49,7 +49,8 @@ namespace AutomacaoCarga
                     break;
 
                 case 2:
-                    contrato = EscolherContrato(drive);
+                    // contrato = EscolherContrato(drive);
+                    contrato = "DPO/SPO - ABInbev";
                     SelecionarContrato(drive, contrato);
                     TempoEspera(drive, tempoespera);
                     Pergunta.CadastrarPergunta(drive);
@@ -70,7 +71,6 @@ namespace AutomacaoCarga
                     Ciclo.CadastraCiclo(drive);
                     break;
             }
-
         }
 
         private static void TempoEspera(IWebDriver drive, TimeSpan tempoespera)
@@ -93,7 +93,6 @@ namespace AutomacaoCarga
                     Console.WriteLine(string.Format("{0} - {1}", i, ambiente[i].Text));
                 }
                 idContrato = Int32.Parse(Console.ReadLine());
-
             } while (!(idContrato >= 0 && idContrato < ambiente.Count));
 
             return ambiente[idContrato].Text;
@@ -111,27 +110,23 @@ namespace AutomacaoCarga
 
         private static void AbrirSite(IWebDriver drive)
         {
-            //string site = "http://audtool.com";
-            string site = "http://localhost:12042/Default";
+            string site = "http://audtool.com";
+            //string site = "http://localhost:12042/Default";
             drive.Navigate().GoToUrl(site);
             //drive.Manage().Window.Maximize();
-         
         }
 
         private static void AbrirSite(string site, IWebDriver drive)
         {
-          
-                //Cria requisição
-                WebRequest request = WebRequest.Create(site);
-                //Envia a requisição e recebe uma resposta
-                HttpWebResponse response = (HttpWebResponse)request.GetResponse();
+            //Cria requisição
+            WebRequest request = WebRequest.Create(site);
+            //Envia a requisição e recebe uma resposta
+            HttpWebResponse response = (HttpWebResponse)request.GetResponse();
 
-            do {
-
+            do
+            {
                 drive.Navigate().GoToUrl(site);
                 drive.Manage().Window.Maximize();
-                
-
             } while (!(response.StatusCode == HttpStatusCode.OK));
         }
 
@@ -140,7 +135,6 @@ namespace AutomacaoCarga
             new Actions(drive)
                 .SendKeys(Keys.Control + "+")
                 .Perform();
-
         }
 
         public static void ZoomOut(IWebDriver drive)
@@ -149,7 +143,6 @@ namespace AutomacaoCarga
                 .SendKeys(Keys.Control + "-")
                 .Perform();
         }
-
 
         private static void EfetuarLogin(IWebDriver drive)
         {
@@ -172,7 +165,6 @@ namespace AutomacaoCarga
             //wait.Until(ExpectedConditions.AlertIsPresent());
             //IAlert alert = drive.SwitchTo().Alert();
             //alert.Accept();
-
         }
 
         private static void EfetuarLogin(IWebDriver drive, string usuario, string senha)
@@ -184,8 +176,8 @@ namespace AutomacaoCarga
             IWebElement inputPassword = drive.FindElement(By.Id("Senha"));
             inputPassword.SendKeys(senha);
             inputPassword.SendKeys(Keys.Enter);
-
         }
+
         private static void SelecionarContrato(IWebDriver drive)
         {
             string contrato = "DPO/SPO - ABInbev";

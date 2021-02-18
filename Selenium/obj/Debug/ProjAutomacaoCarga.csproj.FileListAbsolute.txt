@@ -11,3 +11,15 @@ D:\Projeto\Audtool\Selenium\obj\Debug\ProjAutomacaoCarga.csproj.CopyComplete
 D:\Projeto\Audtool\Selenium\obj\Debug\AutomacaoCarga.exe
 D:\Projeto\Audtool\Selenium\obj\Debug\AutomacaoCarga.pdb
 D:\Projeto\Audtool\Selenium\obj\Debug\ProjAutomacaoCarga.csprojAssemblyReference.cache
+C:\Projeto\Selenium\selenium\Selenium\bin\Debug\AutomacaoCarga.exe.config
+C:\Projeto\Selenium\selenium\Selenium\bin\Debug\AutomacaoCarga.exe
+C:\Projeto\Selenium\selenium\Selenium\bin\Debug\AutomacaoCarga.pdb
+C:\Projeto\Selenium\selenium\Selenium\bin\Debug\NPOI.dll
+C:\Projeto\Selenium\selenium\Selenium\bin\Debug\WebDriver.dll
+C:\Projeto\Selenium\selenium\Selenium\bin\Debug\WebDriver.Support.dll
+C:\Projeto\Selenium\selenium\Selenium\bin\Debug\WebDriver.xml
+C:\Projeto\Selenium\selenium\Selenium\bin\Debug\WebDriver.Support.xml
+C:\Projeto\Selenium\selenium\Selenium\obj\Debug\ProjAutomacaoCarga.csprojAssemblyReference.cache
+C:\Projeto\Selenium\selenium\Selenium\obj\Debug\ProjAutomacaoCarga.csproj.CopyComplete
+C:\Projeto\Selenium\selenium\Selenium\obj\Debug\AutomacaoCarga.exe
+C:\Projeto\Selenium\selenium\Selenium\obj\Debug\AutomacaoCarga.pdb

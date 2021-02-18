@@ -13,7 +13,7 @@ namespace AutomacaoCarga
     {
         public static String EscolherArquivo()
         {
-            string diretorioOrigem = @"D:\Projeto\Audtool\Selenium\Arquivos\";
+            string diretorioOrigem = @"C:\Projeto\Selenium\selenium\Selenium\Arquivos\Carga Quest\Revenda";
 
             string[] arquivos = Directory.GetFiles(diretorioOrigem, "*.xls", SearchOption.TopDirectoryOnly);
 
@@ -30,12 +30,10 @@ namespace AutomacaoCarga
             String diretorio = arquivos[arquivo];
 
             return diretorio;
-
         }
 
         internal static DataTable LerArquivoUnidade(IWebDriver drive)
         {
-
             string caminhoArquivo = EscolherArquivo();
 
             //string caminhoArquivo = @"D:\CARGA\CicloDash.xls";
@@ -43,7 +41,6 @@ namespace AutomacaoCarga
             DataSet planilha = CarregarArquivo(drive, caminhoArquivo);
             return planilha.Tables[0];
         }
-
 
         public static DataTable LerArquivoCiclo(IWebDriver drive)
         {
@@ -77,7 +74,6 @@ namespace AutomacaoCarga
                 HSSFWorkbook wb = new HSSFWorkbook(fis);
 
                 string nomeGuia = "Usuario";
-
 
                 ArrayList lstGuias = new ArrayList();
                 int numeroguias = wb.NumberOfSheets;
@@ -128,7 +124,6 @@ namespace AutomacaoCarga
                     // Run the test for the current test data row
 
                     dt.Rows.Add(dr);
-
                 }
 
                 fis.Close();
@@ -144,22 +139,19 @@ namespace AutomacaoCarga
 
         public static void LogExecucao(string nome, string email, string linha)
         {
-
             //string enderecoFisico = AppDomain.CurrentDomain.BaseDirectory;
             //enderecoFisico = enderecoFisico.Replace("\\bin\\Debug", "");
             //string diretorio = string.Format("{0}{1}", enderecoFisico, "Arquivos\\log.txt");
 
-          //  String diretorio = EscolherArquivo();
+            //  String diretorio = EscolherArquivo();
 
             String diretorio = @"D:\Projeto\Audtool\Selenium\Arquivos\txt.txt";
 
             File.AppendAllText(diretorio, string.Format("{0}-{1}-{2}-{3}", linha, DateTime.Now, nome, email) + Environment.NewLine);
 
-            //using (StreamWriter writter = new StreamWriter(diretorio)) { 
-
-
+            //using (StreamWriter writter = new StreamWriter(diretorio)) {
             //    writter.WriteLine(string.Format("{0}-{1}-{2}", DateTime.Now, nome, email));
-            //}   
+            //}
         }
 
         public static DataTable LerArquivoPerguntas(IWebDriver drive)
@@ -175,10 +167,12 @@ namespace AutomacaoCarga
                     CriarArquivoExcel(caminhoArquivo);
                 }
 
-                // Criar 
-                CarregarArquivo(drive, caminhoArquivo);
+                // Criar
+                var dt = CarregarArquivo(drive, caminhoArquivo);
 
-                int inicio = 14;
+                #region Versao antiga
+
+                /*int inicio = 14;
                 int termino = 31;
 
                 FileStream fis = new FileStream(caminhoArquivo, FileMode.Open);
@@ -186,7 +180,6 @@ namespace AutomacaoCarga
                 HSSFWorkbook wb = new HSSFWorkbook(fis);
                 string nomeGuia = SelecionarGuia(wb);
                 HSSFSheet sheet = (HSSFSheet)wb.GetSheet(nomeGuia);
-
 
                 DataTable dt = new DataTable();
                 dt.Columns.Add("Quant", Type.GetType("System.Int32"));
@@ -198,7 +191,6 @@ namespace AutomacaoCarga
                 dt.Columns.Add("DescricaoPTBR", Type.GetType("System.String"));
                 dt.Columns.Add("ItemVerificacaoPTBR", Type.GetType("System.String"));
                 dt.Columns.Add("AplicacaoPadraoPTBR", Type.GetType("System.String"));
-
 
                 for (; inicio < termino; inicio++)
                 {
@@ -222,15 +214,16 @@ namespace AutomacaoCarga
                     // Run the test for the current test data row
 
                     dt.Rows.Add(dr);
-
                 }
 
-                fis.Close();
+                fis.Close();*/
+
+                #endregion Versao antiga
 
                 if (dt == null)
                     throw new Exception("Planilha vazia ou inválida.");
 
-                return dt;
+                return SelecionarGuia(dt);
             }
             catch (Exception e)
             {
@@ -248,7 +241,6 @@ namespace AutomacaoCarga
             for (int i = 0; i < numeroguias; i++)
             {
                 Console.WriteLine(String.Format("{0} - {1}", i.ToString(), wb.GetSheetName(i)));
-
             }
 
             int itemescolhido = Int32.Parse(Console.ReadLine());
@@ -256,17 +248,30 @@ namespace AutomacaoCarga
             return nomeGuia;
         }
 
+        private static DataTable SelecionarGuia(DataSet dt)
+        {
+            ArrayList lstGuias = new ArrayList();
+            int numeroguias = dt.Tables.Count;
+
+            Console.WriteLine("Informe a guia:");
+            for (int i = 0; i < numeroguias; i++)
+            {
+                Console.WriteLine(String.Format("{0} - {1}", i.ToString(), dt.Tables[i].TableName));
+            }
+
+            int itemescolhido = Int32.Parse(Console.ReadLine());
+            return dt.Tables[itemescolhido];
+        }
+
         public static DataTable LerArquivoAlternativas(IWebDriver drive, int start)
         {
             try
             {
-
                 Console.WriteLine("Informe o Arquivo das ALTERNATIVAS\n");
                 String caminhoArquivo = EscolherArquivo();
-                
+
                 //Console.WriteLine("Informe a quantidade de alternativas:\n");
                 //int qtd_alternativas = Int32.Parse(Console.ReadLine());
-
 
                 if (!File.Exists(caminhoArquivo))
                 {
@@ -281,7 +286,6 @@ namespace AutomacaoCarga
 
                 String nomeGuia = SelecionarGuia(wb);
 
-
                 HSSFSheet sheet = (HSSFSheet)wb.GetSheet(nomeGuia);
 
                 DataTable dt = new DataTable();
@@ -295,10 +299,8 @@ namespace AutomacaoCarga
                 dt.Columns.Add("DescricaoES", Type.GetType("System.String"));
                 dt.Columns.Add("Cor", Type.GetType("System.String"));
 
-
                 int linhaInicial = 1;
                 int linhaFinal = plan.Tables[nomeGuia].Rows.Count + 1;
-
 
                 for (; linhaInicial < linhaFinal; linhaInicial++)
                 {
@@ -337,7 +339,6 @@ namespace AutomacaoCarga
 
         public static void CriarArquivoExcel(string diretorio)
         {
-
             HSSFWorkbook wb = HSSFWorkbook.Create(InternalWorkbook.CreateWorkbook());
 
             HSSFSheet sh = (HSSFSheet)wb.CreateSheet("Plan1");
@@ -359,7 +360,6 @@ namespace AutomacaoCarga
 
         public static DataSet CarregarArquivo(IWebDriver drive, String caminhoArquivo)
         {
-
             //Abrir arquivo
             FileStream fis = new FileStream(caminhoArquivo, FileMode.Open);
 
@@ -373,7 +373,6 @@ namespace AutomacaoCarga
             int numeroguias = wb.NumberOfSheets;
             int numeroColunas;
             Type tipoCelula = null;
-            
 
             for (int i = 0; i < numeroguias; i++)
             {
@@ -388,31 +387,33 @@ namespace AutomacaoCarga
                 //Utilizar o cabeçalho.
                 HSSFRow row = (HSSFRow)sheet.GetRow(0);
                 //Ultilizar a primeira linha de dados
-               
+
                 // Quantidade de linhas o arquivo possui
-               // countRow = sheet.LastRowNum;
+                // countRow = sheet.LastRowNum;
                 int numRow = sheet.PhysicalNumberOfRows;
 
                 //Quantidade de colunas  no cabeçalho
                 numeroColunas = sheet.GetRow(0).PhysicalNumberOfCells;
-                //Adcionando linhas 
+                //Adcionando linhas
                 for (int r = 1; r < numRow; r++)
                 {
                     HSSFRow rowData = (HSSFRow)sheet.GetRow(r);
                     // Adcionando Linhas ao datatable
                     DataRow dr = dt.NewRow();
-                    //Informações das celulas para cada Linha 
+                    //Informações das celulas para cada Linha
                     for (int c = 0; c < numeroColunas; c++)
                     {
                         HSSFCell cell = (HSSFCell)rowData.GetCell(c);
+
                         #region Definir Cabecalho do Data Table
+
                         //garantir que execute somente para linha 1 uma unica vez por guia.
                         if (r == 1)
                         {
                             DataColumn dc = new DataColumn();
 
                             if (cell != null)
-                                {
+                            {
                                 switch (cell.CellType)
                                 {
                                     case NPOI.SS.UserModel.CellType.String:
@@ -428,9 +429,10 @@ namespace AutomacaoCarga
                                 // Nome da coluna (row - Utilizar o cabeçalho)
                                 dc.ColumnName = row.GetCell(c).ToString();
                             }
-                            //Adcionando as colunas 
+                            //Adcionando as colunas
                             dt.Columns.Add(dc);
-                            #endregion
+
+                            #endregion Definir Cabecalho do Data Table
                         }
                         if (cell != null)
                         {
@@ -442,8 +444,8 @@ namespace AutomacaoCarga
                                     break;
 
                                 case NPOI.SS.UserModel.CellType.Numeric:
- 
-                                   dr[c] = rowData.GetCell(c).NumericCellValue;
+
+                                    dr[c] = rowData.GetCell(c).NumericCellValue;
                                     break;
                             }
                         }
@@ -456,7 +458,5 @@ namespace AutomacaoCarga
             }
             return ds;
         }
-
     }
 }
-

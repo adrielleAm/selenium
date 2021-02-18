@@ -10,7 +10,8 @@ namespace AutomacaoCarga
     {
         public static void CadastrarPergunta(IWebDriver drive)
         {
-            try {
+            try
+            {
                 AbrirTelaPergunta(drive);
 
                 drive.Manage().Timeouts();
@@ -25,14 +26,10 @@ namespace AutomacaoCarga
                 if (dta == null)
                     throw new Exception("Falha na Leitura do arquivo de perguntas");
 
-
-
-
                 foreach (DataRow item in dtp.Rows)
                 {
-
                     string expression;
-                    expression = String.Format("NumeroPergunta = '{0}'",item["NumeroPergunta"].ToString());
+                    expression = String.Format("NumeroPergunta = '{0}'", item["NumeroPergunta"].ToString());
                     DataRow[] dtea = dta.Select(expression);
                     DataTable dtAlternativas = new DataTable();
 
@@ -45,14 +42,13 @@ namespace AutomacaoCarga
 
                     CadastrarNovaPergunta(drive);
 
-                    PreencherPergunta(drive, (int)item["Quant"], (string)item["Categoria"], (string)item["Modalidade"], item["FormaPreenchimento"].ToString(), item["NumeroPergunta"].ToString(),
-                        (string)item["TituloPTBR"], (string)item["DescricaoPTBR"], (string)item["ItemVerificacaoPTBR"], (string)item["AplicacaoPadraoPTBR"], dtAlternativas);
+                    PreencherPergunta(drive, item["Categoria"].ToString(), item["Modalidade"].ToString(), item["FormaPreenchimento"].ToString(), item["NumeroPergunta"].ToString(),
+                        item["TituloPTBR"].ToString(), item["DescricaoPTBR"].ToString(), item["ItemVerificacaoPTBR"].ToString(), dtAlternativas);
 
                     //IWebElement msg = drive.FindElement(By.CssSelector("css=div.content"));
                     //msg.Click();
                     Thread.Sleep(TimeSpan.FromSeconds(5));
                 }
-
             }
             catch (WebDriverException ex)
             {
@@ -106,8 +102,8 @@ namespace AutomacaoCarga
             btn.Click();
         }
 
-        private static void PreencherPergunta(IWebDriver drive, int quant, string categoria, string modalidade, string formaPreenchimento, string numeroPergunta,
-            string titulo_PTBR, string descricao_PTBR, string itemVerificacao_PTBR, string aplicacaoPadrao_PTBR, DataTable dtAlternativa)
+        private static void PreencherPergunta(IWebDriver drive, string categoria, string modalidade, string formaPreenchimento, string numeroPergunta,
+            string titulo_PTBR, string descricao_PTBR, string itemVerificacao_PTBR, DataTable dtAlternativa)
         //string titulo_EN, string descricao_EN, string itemVerificacao_EN, string aplicacaoPadrao_EN,
         //string titulo_ES, string descricao_ES, string itemVerificacao_ES, string aplicacaoPadrao_ES)
         {
@@ -118,7 +114,6 @@ namespace AutomacaoCarga
             TimeSpan tempoespera = TimeSpan.FromSeconds(40);
             IWait<IWebDriver> wait = new WebDriverWait(drive, tempoespera);
             wait.Until(drv => !Program.Exibir(drive, By.Id("bloqueio-tela")));
-
 
             if (string.IsNullOrEmpty(numeroPergunta))
                 separador = string.Empty;
@@ -156,8 +151,8 @@ namespace AutomacaoCarga
             itemVerificacaoPTBR.SendKeys(titulopergunta);
             //itemVerificacaoPTBR.SendKeys(itemVerificacao_PTBR);
 
-            IWebElement aplicabilidadePadraoPTBR = drive.FindElement(By.Id("aplicablang_1"));
-            aplicabilidadePadraoPTBR.SendKeys(aplicacaoPadrao_PTBR);
+            //IWebElement aplicabilidadePadraoPTBR = drive.FindElement(By.Id("aplicablang_1"));
+            //aplicabilidadePadraoPTBR.SendKeys(aplicacaoPadrao_PTBR);
 
             //Preenchimento Inglês
             IWebElement tituloEN = drive.FindElement(By.Id("titulolang_2"));
@@ -171,7 +166,6 @@ namespace AutomacaoCarga
 
             IWebElement aplicabilidadeEN = drive.FindElement(By.Id("aplicablang_2"));
             aplicabilidadeEN.SendKeys(itemVerificacao_PTBR);
-
 
             //Preenchimento Espanhol
             IWebElement tituloES = drive.FindElement(By.Id("titulolang_3"));
@@ -195,8 +189,8 @@ namespace AutomacaoCarga
             Thread.Sleep(1000);
 
             DataTable dt = dtAlternativa;
-                
-                //Arquivo.LerArquivoAlternativas(drive, quant);
+
+            //Arquivo.LerArquivoAlternativas(drive, quant);
 
             //Assert Logar o sucesso da operação.
 
@@ -205,8 +199,8 @@ namespace AutomacaoCarga
             int quantreg = dt.Rows.Count + 1;
             //DataRow dr;
 
-
-            foreach (DataRow dr in dt.Rows) {
+            foreach (DataRow dr in dt.Rows)
+            {
                 var btn_novaalternativa = drive.FindElement(By.Id("btnIncluirAlternativa"));
                 btn_novaalternativa.Click();
 
@@ -216,7 +210,6 @@ namespace AutomacaoCarga
                 peso = dr["peso"].ToString();
                 cor = dr["cor"].ToString();
 
-
                 drive.Manage().Timeouts().SetPageLoadTimeout(TimeSpan.FromSeconds(45));
 
                 CadastrarAlternativas(drive, despresarCalculo, peso, cor, descricaoAlternativaPTBR,
@@ -224,8 +217,8 @@ namespace AutomacaoCarga
                       descricaoAlternativaES);
             }
 
-            if (IncluirNA) {
-
+            if (IncluirNA)
+            {
                 var btn_novaalternativa = drive.FindElement(By.Id("btnIncluirAlternativa"));
                 btn_novaalternativa.Click();
 
@@ -247,7 +240,6 @@ namespace AutomacaoCarga
             //{
             //    var btn_novaalternativa = drive.FindElement(By.Id("btnIncluirAlternativa"));
             //    btn_novaalternativa.Click();
-
 
             //    if (i == 2)
             //    {
@@ -276,9 +268,8 @@ namespace AutomacaoCarga
             var btn_SalvarPergunta = drive.FindElement(By.Id("btnSalvarPergunta"));
             btn_SalvarPergunta.Click();
 
-            Arquivo.LogExecucao(titulo_PTBR, categoria, numeroPergunta);
+            //Arquivo.LogExecucao(titulo_PTBR, categoria, numeroPergunta);
         }
-
 
         public static void AguardarPaginaCarregar(IWebDriver driver, TimeSpan tempoespera)
         {
@@ -295,7 +286,6 @@ namespace AutomacaoCarga
             wait.Until(waitForElement);
         }
 
-
         private static void CadastrarAlternativas(IWebDriver drive, bool desprezarCalculo, string peso, string cor,
             string alternativaPTBR, string alternativaEN, string alternativaES)
         {
@@ -305,8 +295,6 @@ namespace AutomacaoCarga
 
             IWait<IWebDriver> wait2 = new WebDriverWait(drive, tempoespera);
             //wait2.Until(drv => drv.FindElement(By.Name("Desprezar")));
-
-
 
             IWebElement chkdesprezarCalculo = wait2.Until(drv => drive.FindElement(By.Name("Desprezar")));
 
